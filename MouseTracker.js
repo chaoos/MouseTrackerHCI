@@ -22,9 +22,10 @@ history.pushState = function () {
 
 // register all that shit baby
 (function() {
-    window.addEventListener("mousemove",mouseMove,true);
-    window.addEventListener("click",mouseClick,true);
-    document.addEventListener("keydown",flushData,true);
+    window.addEventListener("mousemove",mouseMove, true);
+    window.addEventListener("click",mouseClick, true);
+    document.addEventListener("keydown",flushData, true);
+    window.addEventListener("popstate", pageLoad("b"), false)
     $( document ).ready( pageLoad("jq") );
 })();
 
