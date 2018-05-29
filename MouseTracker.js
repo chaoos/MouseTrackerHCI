@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Capture mouse movements and keypresses, count click and track page requests. Reset counter to 0 with F2. Dump all to the console.
-// @author       You
+// @author       Roman Gruber, Yannick Seitz, Jonas Wyss
 // @match        http*://*/*
 // @grant GM_setValue
 // @grant GM_getValue
@@ -12,36 +12,47 @@
 
 var pushState = history.pushState;
 
-// initialize counter value
+// initialize counter value or get the current value in the cookie
 var counter = GM_getValue("counter", 0);
 
+// get the page change when the browser history changed
 history.pushState = function () {
     pushState.apply(history, arguments);
     setTimeout(pageLoad("st"), 1000); // hacky delay tactics FTW!!
 };
 
-// register all that shit baby
+/*
+ * register all that shit baby
+ */
 (function() {
     window.addEventListener("mousemove",mouseMove, true);
     window.addEventListener("click",mouseClick, true);
     document.addEventListener("keydown",flushData, true);
     window.addEventListener("popstate", pageLoad("b"), false)
+
+    // jQuerys document ready state when the page changes
     $( document ).ready( pageLoad("jq") );
 })();
 
-// get current timestamp
+/*
+ * returns the current timestamp in nanoseconds if available
+ */
 function timestamp() {
     var timeStampInMs = window.performance && window.performance.now && window.performance.timing && window.performance.timing.navigationStart ? window.performance.now() + window.performance.timing.navigationStart : Date.now();
     return timeStampInMs;
 }
 
-// log the movements
+/*
+ * log the position of the mouse
+ */
 function mouseMove(e){
     console.info("move-->", timestamp(), e.pageX, e.pageY)
 }
 
-// log the keys pressed and
-// reset the counter to 0 when F2 is pressed
+/*
+ * reset the click counter to 0 when F2 is pressed and
+ * log the keystrokes
+ */
 function flushData(e){
     console.info("key--->", timestamp(), e.keyCode);
     if(e.keyCode == 113){
@@ -53,15 +64,17 @@ function flushData(e){
     }
 }
 
-// log the clicks
+/*
+ * log the clicks and update the cookie with the current number of clicks
+ */
 function mouseClick(e){
     console.info("click->", timestamp(), counter++)
     GM_setValue("counter", counter);
 }
 
-// log the pageloads
+/*
+ * log the pageloads
+ */
 function pageLoad(t){
-  //if (String(window.location.host).includes("amazon.com")){
-      console.info("load--> ", timestamp(), document.location.href);
-  //}
+    console.info("load--> ", timestamp(), document.location.href);
 }
