@@ -1,0 +1,3542 @@
+move--> 1526645438076 41 345
+userscript.html:51:5
+move--> 1526645438091 43 341
+userscript.html:51:5
+move--> 1526645438107 49 330
+userscript.html:51:5
+move--> 1526645438125 53 321
+userscript.html:51:5
+move--> 1526645438141 58 313
+userscript.html:51:5
+move--> 1526645438157 58 313
+userscript.html:51:5
+move--> 1526645438208 66 298
+userscript.html:51:5
+move--> 1526645438224 67 296
+userscript.html:51:5
+move--> 1526645438241 67 295
+userscript.html:51:5
+click-> 1526645438405 0
+userscript.html:69:5
+key---> 1526645439176 17
+userscript.html:57:5
+key---> 1526645440340 113
+userscript.html:57:5
++--------------------+
+userscript.html:61:9
+| Counter reset to 0 |
+userscript.html:62:9
++--------------------+
+userscript.html:63:9
+key---> 1526645440474 113
+userscript.html:57:5
++--------------------+
+userscript.html:61:9
+| Counter reset to 0 |
+userscript.html:62:9
++--------------------+
+userscript.html:63:9
+move--> 1526645442026 74 300
+userscript.html:51:5
+move--> 1526645442043 78 303
+userscript.html:51:5
+move--> 1526645442060 83 306
+userscript.html:51:5
+move--> 1526645442076 91 311
+userscript.html:51:5
+move--> 1526645442092 95 314
+userscript.html:51:5
+move--> 1526645442120 115 335
+userscript.html:51:5
+move--> 1526645442143 124 347
+userscript.html:51:5
+move--> 1526645442910 694 347
+userscript.html:51:5
+move--> 1526645442961 696 345
+userscript.html:51:5
+move--> 1526645442994 695 345
+userscript.html:51:5
+move--> 1526645448078 770 503
+userscript.html:51:5
+move--> 1526645449045 770 501
+userscript.html:51:5
+move--> 1526645449062 774 498
+userscript.html:51:5
+move--> 1526645449077 781 494
+userscript.html:51:5
+move--> 1526645449094 789 491
+userscript.html:51:5
+move--> 1526645449111 791 491
+userscript.html:51:5
+move--> 1526645449127 803 489
+userscript.html:51:5
+move--> 1526645449144 807 488
+userscript.html:51:5
+move--> 1526645449161 812 485
+userscript.html:51:5
+move--> 1526645449178 813 485
+userscript.html:51:5
+move--> 1526645449194 822 478
+userscript.html:51:5
+move--> 1526645449211 826 475
+userscript.html:51:5
+move--> 1526645449228 828 472
+userscript.html:51:5
+move--> 1526645449244 827 471
+userscript.html:51:5
+move--> 1526645449261 823 467
+userscript.html:51:5
+move--> 1526645449278 822 464
+userscript.html:51:5
+move--> 1526645449294 821 463
+userscript.html:51:5
+move--> 1526645449312 819 462
+userscript.html:51:5
+move--> 1526645449327 815 460
+userscript.html:51:5
+move--> 1526645449344 813 459
+userscript.html:51:5
+move--> 1526645449361 812 458
+userscript.html:51:5
+move--> 1526645449378 812 458
+userscript.html:51:5
+move--> 1526645449395 811 458
+userscript.html:51:5
+move--> 1526645449412 811 458
+userscript.html:51:5
+move--> 1526645449428 810 458
+userscript.html:51:5
+move--> 1526645449444 810 458
+userscript.html:51:5
+move--> 1526645449711 809 458
+userscript.html:51:5
+move--> 1526645449728 806 458
+userscript.html:51:5
+move--> 1526645449745 803 458
+userscript.html:51:5
+move--> 1526645449761 798 458
+userscript.html:51:5
+move--> 1526645449778 796 458
+userscript.html:51:5
+move--> 1526645449794 783 456
+userscript.html:51:5
+move--> 1526645449811 776 453
+userscript.html:51:5
+move--> 1526645449827 769 451
+userscript.html:51:5
+move--> 1526645449845 765 450
+userscript.html:51:5
+move--> 1526645449861 757 447
+userscript.html:51:5
+move--> 1526645449877 751 445
+userscript.html:51:5
+move--> 1526645449895 746 443
+userscript.html:51:5
+move--> 1526645449911 744 442
+userscript.html:51:5
+move--> 1526645449929 740 438
+userscript.html:51:5
+move--> 1526645449945 737 436
+userscript.html:51:5
+move--> 1526645449962 736 435
+userscript.html:51:5
+move--> 1526645449978 735 435
+userscript.html:51:5
+move--> 1526645449994 734 435
+userscript.html:51:5
+move--> 1526645450011 734 434
+userscript.html:51:5
+move--> 1526645450028 733 434
+userscript.html:51:5
+move--> 1526645450045 732 434
+userscript.html:51:5
+move--> 1526645450061 729 434
+userscript.html:51:5
+move--> 1526645450078 726 433
+userscript.html:51:5
+move--> 1526645450094 724 433
+userscript.html:51:5
+move--> 1526645450111 723 433
+userscript.html:51:5
+move--> 1526645450129 720 432
+userscript.html:51:5
+move--> 1526645450144 718 432
+userscript.html:51:5
+move--> 1526645450161 715 432
+userscript.html:51:5
+move--> 1526645450177 713 432
+userscript.html:51:5
+move--> 1526645450194 710 432
+userscript.html:51:5
+move--> 1526645450212 703 433
+userscript.html:51:5
+move--> 1526645450227 695 433
+userscript.html:51:5
+move--> 1526645450244 688 433
+userscript.html:51:5
+move--> 1526645450278 664 434
+userscript.html:51:5
+move--> 1526645450295 656 434
+userscript.html:51:5
+move--> 1526645450311 650 434
+userscript.html:51:5
+move--> 1526645450328 649 434
+userscript.html:51:5
+move--> 1526645450344 642 434
+userscript.html:51:5
+move--> 1526645450361 638 434
+userscript.html:51:5
+move--> 1526645450378 632 433
+userscript.html:51:5
+move--> 1526645450395 630 433
+userscript.html:51:5
+move--> 1526645450411 615 433
+userscript.html:51:5
+move--> 1526645450427 604 433
+userscript.html:51:5
+move--> 1526645450445 593 433
+userscript.html:51:5
+move--> 1526645450461 584 433
+userscript.html:51:5
+move--> 1526645450478 574 431
+userscript.html:51:5
+move--> 1526645450494 565 430
+userscript.html:51:5
+move--> 1526645450511 559 430
+userscript.html:51:5
+move--> 1526645450528 548 429
+userscript.html:51:5
+move--> 1526645450544 540 429
+userscript.html:51:5
+move--> 1526645450561 533 429
+userscript.html:51:5
+move--> 1526645450580 530 430
+userscript.html:51:5
+move--> 1526645450611 527 431
+userscript.html:51:5
+move--> 1526645450627 531 434
+userscript.html:51:5
+move--> 1526645450645 535 436
+userscript.html:51:5
+move--> 1526645450878 537 436
+userscript.html:51:5
+move--> 1526645450895 539 435
+userscript.html:51:5
+move--> 1526645450912 539 435
+userscript.html:51:5
+move--> 1526645450928 540 434
+userscript.html:51:5
+move--> 1526645450944 541 434
+userscript.html:51:5
+move--> 1526645450994 540 434
+userscript.html:51:5
+move--> 1526645451011 539 434
+userscript.html:51:5
+move--> 1526645451029 539 434
+userscript.html:51:5
+move--> 1526645451079 538 434
+userscript.html:51:5
+move--> 1526645451095 537 435
+userscript.html:51:5
+move--> 1526645451111 536 435
+userscript.html:51:5
+move--> 1526645451128 535 435
+userscript.html:51:5
+move--> 1526645451145 535 435
+userscript.html:51:5
+move--> 1526645451163 534 435
+userscript.html:51:5
+move--> 1526645451178 534 435
+userscript.html:51:5
+move--> 1526645451195 533 435
+userscript.html:51:5
+move--> 1526645451212 533 435
+userscript.html:51:5
+move--> 1526645451229 533 436
+userscript.html:51:5
+move--> 1526645451247 532 436
+userscript.html:51:5
+move--> 1526645451263 532 436
+userscript.html:51:5
+move--> 1526645451296 532 436
+userscript.html:51:5
+move--> 1526645452379 532 456
+userscript.html:51:5
+move--> 1526645452397 531 449
+userscript.html:51:5
+move--> 1526645452429 531 446
+userscript.html:51:5
+move--> 1526645452497 531 437
+userscript.html:51:5
+move--> 1526645452729 531 436
+userscript.html:51:5
+move--> 1526645452745 531 433
+userscript.html:51:5
+move--> 1526645452761 531 427
+userscript.html:51:5
+move--> 1526645452778 528 419
+userscript.html:51:5
+move--> 1526645452795 527 416
+userscript.html:51:5
+move--> 1526645452811 518 401
+userscript.html:51:5
+move--> 1526645452829 514 393
+userscript.html:51:5
+move--> 1526645452845 508 384
+userscript.html:51:5
+move--> 1526645452861 507 383
+userscript.html:51:5
+move--> 1526645452879 499 371
+userscript.html:51:5
+move--> 1526645452895 494 365
+userscript.html:51:5
+move--> 1526645452913 492 361
+userscript.html:51:5
+move--> 1526645452930 490 359
+userscript.html:51:5
+move--> 1526645452945 489 354
+userscript.html:51:5
+move--> 1526645452962 489 351
+userscript.html:51:5
+move--> 1526645452980 489 348
+userscript.html:51:5
+move--> 1526645452995 489 347
+userscript.html:51:5
+move--> 1526645453011 490 344
+userscript.html:51:5
+move--> 1526645453029 491 343
+userscript.html:51:5
+move--> 1526645453046 494 341
+userscript.html:51:5
+move--> 1526645453061 496 340
+userscript.html:51:5
+move--> 1526645453078 502 337
+userscript.html:51:5
+move--> 1526645453096 506 336
+userscript.html:51:5
+move--> 1526645453111 506 336
+userscript.html:51:5
+move--> 1526645453295 506 336
+userscript.html:51:5
+move--> 1526645453311 504 335
+userscript.html:51:5
+move--> 1526645453328 503 335
+userscript.html:51:5
+move--> 1526645453345 502 336
+userscript.html:51:5
+move--> 1526645453362 502 336
+userscript.html:51:5
+move--> 1526645453378 503 338
+userscript.html:51:5
+move--> 1526645453395 507 337
+userscript.html:51:5
+move--> 1526645453412 501 338
+userscript.html:51:5
+move--> 1526645453729 504 342
+userscript.html:51:5
+move--> 1526645453751 515 352
+userscript.html:51:5
+move--> 1526645453761 523 359
+userscript.html:51:5
+move--> 1526645453778 527 361
+userscript.html:51:5
+move--> 1526645453795 527 361
+userscript.html:51:5
+move--> 1526645453812 528 361
+userscript.html:51:5
+move--> 1526645453847 528 360
+userscript.html:51:5
+move--> 1526645454328 533 354
+userscript.html:51:5
+move--> 1526645454348 536 348
+userscript.html:51:5
+move--> 1526645454361 538 343
+userscript.html:51:5
+move--> 1526645454379 541 336
+userscript.html:51:5
+move--> 1526645454395 541 336
+userscript.html:51:5
+move--> 1526645454412 547 325
+userscript.html:51:5
+move--> 1526645454432 548 322
+userscript.html:51:5
+move--> 1526645454445 549 321
+userscript.html:51:5
+move--> 1526645454462 548 321
+userscript.html:51:5
+move--> 1526645454478 548 323
+userscript.html:51:5
+move--> 1526645454496 546 327
+userscript.html:51:5
+move--> 1526645454512 546 328
+userscript.html:51:5
+move--> 1526645454779 562 346
+userscript.html:51:5
+move--> 1526645454796 562 347
+userscript.html:51:5
+move--> 1526645454811 562 347
+userscript.html:51:5
+move--> 1526645454830 562 347
+userscript.html:51:5
+move--> 1526645454846 561 347
+userscript.html:51:5
+move--> 1526645454861 560 346
+userscript.html:51:5
+move--> 1526645454879 557 345
+userscript.html:51:5
+move--> 1526645454911 537 338
+userscript.html:51:5
+move--> 1526645454929 528 335
+userscript.html:51:5
+move--> 1526645454945 508 328
+userscript.html:51:5
+move--> 1526645454978 472 315
+userscript.html:51:5
+move--> 1526645454995 454 307
+userscript.html:51:5
+move--> 1526645455011 439 300
+userscript.html:51:5
+move--> 1526645455047 410 285
+userscript.html:51:5
+move--> 1526645455061 400 279
+userscript.html:51:5
+move--> 1526645455080 384 270
+userscript.html:51:5
+move--> 1526645455112 367 261
+userscript.html:51:5
+move--> 1526645455128 365 259
+userscript.html:51:5
+move--> 1526645455145 360 252
+userscript.html:51:5
+move--> 1526645455179 354 242
+userscript.html:51:5
+move--> 1526645455195 351 236
+userscript.html:51:5
+move--> 1526645455229 346 229
+userscript.html:51:5
+move--> 1526645455279 344 238
+userscript.html:51:5
+move--> 1526645455296 344 238
+userscript.html:51:5
+move--> 1526645455495 344 238
+userscript.html:51:5
+move--> 1526645455511 345 239
+userscript.html:51:5
+move--> 1526645455528 347 240
+userscript.html:51:5
+move--> 1526645455578 349 241
+userscript.html:51:5
+move--> 1526645455630 349 241
+userscript.html:51:5
+move--> 1526645455645 348 240
+userscript.html:51:5
+move--> 1526645455713 335 229
+userscript.html:51:5
+move--> 1526645455728 335 229
+userscript.html:51:5
+move--> 1526645455780 316 213
+userscript.html:51:5
+move--> 1526645455796 311 209
+userscript.html:51:5
+move--> 1526645455845 291 193
+userscript.html:51:5
+move--> 1526645455862 287 191
+userscript.html:51:5
+move--> 1526645455979 247 166
+userscript.html:51:5
+move--> 1526645455995 244 163
+userscript.html:51:5
+move--> 1526645456045 232 154
+userscript.html:51:5
+move--> 1526645456062 229 151
+userscript.html:51:5
+move--> 1526645456112 221 151
+userscript.html:51:5
+move--> 1526645456128 224 156
+userscript.html:51:5
+move--> 1526645456195 229 160
+userscript.html:51:5
+move--> 1526645456377 230 160
+userscript.html:51:5
+move--> 1526645456427 223 159
+userscript.html:51:5
+move--> 1526645456478 205 151
+userscript.html:51:5
+move--> 1526645456494 203 148
+userscript.html:51:5
+move--> 1526645456561 188 140
+userscript.html:51:5
+move--> 1526645456627 184 137
+userscript.html:51:5
+move--> 1526645456645 183 135
+userscript.html:51:5
+move--> 1526645456694 178 131
+userscript.html:51:5
+move--> 1526645456711 178 130
+userscript.html:51:5
+move--> 1526645460495 240 236
+userscript.html:51:5
+click-> 1526645460528 0
+userscript.html:69:5
+load-->  1526645461026 https://twitter.com/TPersonfive
+userscript.html:76:7
+move--> 1526645463006 240 236
+userscript.html:51:5
+move--> 1526645463023 242 241
+userscript.html:51:5
+move--> 1526645463045 242 243
+userscript.html:51:5
+move--> 1526645463056 243 245
+userscript.html:51:5
+move--> 1526645463078 243 245
+userscript.html:51:5
+move--> 1526645463112 243 248
+userscript.html:51:5
+move--> 1526645463123 242 250
+userscript.html:51:5
+move--> 1526645463139 241 252
+userscript.html:51:5
+move--> 1526645463155 240 254
+userscript.html:51:5
+move--> 1526645463173 239 254
+userscript.html:51:5
+move--> 1526645463190 235 259
+userscript.html:51:5
+move--> 1526645463206 234 261
+userscript.html:51:5
+move--> 1526645463222 232 264
+userscript.html:51:5
+move--> 1526645463239 230 266
+userscript.html:51:5
+move--> 1526645463273 226 271
+userscript.html:51:5
+move--> 1526645463289 223 276
+userscript.html:51:5
+move--> 1526645463306 221 277
+userscript.html:51:5
+move--> 1526645463323 219 279
+userscript.html:51:5
+move--> 1526645463372 206 291
+userscript.html:51:5
+move--> 1526645463389 203 294
+userscript.html:51:5
+move--> 1526645463407 199 299
+userscript.html:51:5
+move--> 1526645463422 198 301
+userscript.html:51:5
+move--> 1526645463457 193 309
+userscript.html:51:5
+move--> 1526645463473 192 311
+userscript.html:51:5
+move--> 1526645463489 192 313
+userscript.html:51:5
+move--> 1526645463506 191 314
+userscript.html:51:5
+move--> 1526645463523 191 316
+userscript.html:51:5
+move--> 1526645463539 191 317
+userscript.html:51:5
+move--> 1526645463555 191 318
+userscript.html:51:5
+move--> 1526645463573 192 319
+userscript.html:51:5
+move--> 1526645463589 192 320
+userscript.html:51:5
+move--> 1526645463607 194 321
+userscript.html:51:5
+move--> 1526645463622 196 323
+userscript.html:51:5
+move--> 1526645463639 199 325
+userscript.html:51:5
+move--> 1526645463655 202 326
+userscript.html:51:5
+move--> 1526645463672 208 329
+userscript.html:51:5
+move--> 1526645463688 213 332
+userscript.html:51:5
+move--> 1526645463706 219 334
+userscript.html:51:5
+move--> 1526645463722 227 337
+userscript.html:51:5
+move--> 1526645463740 236 339
+userscript.html:51:5
+move--> 1526645463755 247 342
+userscript.html:51:5
+move--> 1526645463773 258 343
+userscript.html:51:5
+move--> 1526645463790 273 344
+userscript.html:51:5
+move--> 1526645463806 283 345
+userscript.html:51:5
+move--> 1526645463823 291 345
+userscript.html:51:5
+move--> 1526645463844 295 345
+userscript.html:51:5
+move--> 1526645463855 300 345
+userscript.html:51:5
+move--> 1526645463880 305 345
+userscript.html:51:5
+move--> 1526645463890 309 344
+userscript.html:51:5
+move--> 1526645463906 313 343
+userscript.html:51:5
+move--> 1526645463922 317 343
+userscript.html:51:5
+move--> 1526645463939 320 343
+userscript.html:51:5
+move--> 1526645463956 321 343
+userscript.html:51:5
+move--> 1526645463973 322 343
+userscript.html:51:5
+move--> 1526645463989 322 343
+userscript.html:51:5
+move--> 1526645464006 323 343
+userscript.html:51:5
+move--> 1526645464023 323 343
+userscript.html:51:5
+move--> 1526645464039 323 343
+userscript.html:51:5
+move--> 1526645464056 323 343
+userscript.html:51:5
+move--> 1526645464072 324 343
+userscript.html:51:5
+move--> 1526645464556 325 343
+userscript.html:51:5
+move--> 1526645464573 329 343
+userscript.html:51:5
+move--> 1526645464588 334 343
+userscript.html:51:5
+move--> 1526645464609 338 344
+userscript.html:51:5
+move--> 1526645464622 342 344
+userscript.html:51:5
+move--> 1526645464638 346 344
+userscript.html:51:5
+move--> 1526645464655 349 344
+userscript.html:51:5
+move--> 1526645464673 351 344
+userscript.html:51:5
+move--> 1526645464689 353 344
+userscript.html:51:5
+move--> 1526645464706 353 345
+userscript.html:51:5
+move--> 1526645464723 351 349
+userscript.html:51:5
+move--> 1526645464740 347 355
+userscript.html:51:5
+move--> 1526645464756 332 376
+userscript.html:51:5
+move--> 1526645464775 328 384
+userscript.html:51:5
+move--> 1526645464957 326 392
+userscript.html:51:5
+move--> 1526645464977 321 416
+userscript.html:51:5
+move--> 1526645464991 318 448
+userscript.html:51:5
+move--> 1526645465008 318 466
+userscript.html:51:5
+move--> 1526645465022 318 472
+userscript.html:51:5
+move--> 1526645465042 327 488
+userscript.html:51:5
+move--> 1526645465056 333 489
+userscript.html:51:5
+move--> 1526645465073 339 487
+userscript.html:51:5
+move--> 1526645465089 340 486
+userscript.html:51:5
+move--> 1526645465105 351 478
+userscript.html:51:5
+move--> 1526645465125 361 473
+userscript.html:51:5
+move--> 1526645465139 372 469
+userscript.html:51:5
+move--> 1526645465155 374 468
+userscript.html:51:5
+move--> 1526645465172 399 460
+userscript.html:51:5
+move--> 1526645465192 420 454
+userscript.html:51:5
+move--> 1526645465206 444 447
+userscript.html:51:5
+move--> 1526645465222 454 444
+userscript.html:51:5
+move--> 1526645465241 500 433
+userscript.html:51:5
+move--> 1526645465256 528 428
+userscript.html:51:5
+move--> 1526645465272 554 425
+userscript.html:51:5
+move--> 1526645465289 567 424
+userscript.html:51:5
+move--> 1526645465305 605 420
+userscript.html:51:5
+move--> 1526645465323 639 415
+userscript.html:51:5
+move--> 1526645465339 671 407
+userscript.html:51:5
+move--> 1526645465355 684 404
+userscript.html:51:5
+move--> 1526645465374 717 392
+userscript.html:51:5
+move--> 1526645465390 738 384
+userscript.html:51:5
+move--> 1526645465405 760 378
+userscript.html:51:5
+move--> 1526645465422 777 372
+userscript.html:51:5
+move--> 1526645465439 814 359
+userscript.html:51:5
+move--> 1526645465458 836 349
+userscript.html:51:5
+move--> 1526645465474 850 343
+userscript.html:51:5
+move--> 1526645465489 857 340
+userscript.html:51:5
+move--> 1526645465505 878 332
+userscript.html:51:5
+move--> 1526645465522 899 324
+userscript.html:51:5
+move--> 1526645465538 917 317
+userscript.html:51:5
+move--> 1526645465556 924 314
+userscript.html:51:5
+move--> 1526645465573 948 305
+userscript.html:51:5
+move--> 1526645465589 969 302
+userscript.html:51:5
+move--> 1526645465605 992 302
+userscript.html:51:5
+move--> 1526645465622 1000 302
+userscript.html:51:5
+move--> 1526645465638 1030 302
+userscript.html:51:5
+move--> 1526645465655 1045 300
+userscript.html:51:5
+move--> 1526645465672 1065 295
+userscript.html:51:5
+move--> 1526645465690 1084 289
+userscript.html:51:5
+move--> 1526645465705 1099 285
+userscript.html:51:5
+move--> 1526645465739 1113 281
+userscript.html:51:5
+move--> 1526645465744 1128 280
+userscript.html:51:5
+move--> 1526645465755 1134 280
+userscript.html:51:5
+move--> 1526645465776 1153 285
+userscript.html:51:5
+move--> 1526645465790 1166 288
+userscript.html:51:5
+move--> 1526645465806 1174 289
+userscript.html:51:5
+move--> 1526645465822 1178 290
+userscript.html:51:5
+move--> 1526645465839 1186 290
+userscript.html:51:5
+move--> 1526645465856 1189 290
+userscript.html:51:5
+move--> 1526645465872 1193 290
+userscript.html:51:5
+move--> 1526645465889 1196 290
+userscript.html:51:5
+move--> 1526645465909 1204 292
+userscript.html:51:5
+move--> 1526645465922 1208 292
+userscript.html:51:5
+move--> 1526645465940 1211 292
+userscript.html:51:5
+move--> 1526645465956 1212 292
+userscript.html:51:5
+move--> 1526645465972 1214 292
+userscript.html:51:5
+move--> 1526645465989 1218 292
+userscript.html:51:5
+move--> 1526645466005 1223 293
+userscript.html:51:5
+move--> 1526645466023 1224 293
+userscript.html:51:5
+move--> 1526645466039 1230 295
+userscript.html:51:5
+move--> 1526645466059 1233 296
+userscript.html:51:5
+move--> 1526645466072 1237 298
+userscript.html:51:5
+move--> 1526645466089 1238 299
+userscript.html:51:5
+move--> 1526645466105 1242 302
+userscript.html:51:5
+move--> 1526645466124 1242 303
+userscript.html:51:5
+move--> 1526645466139 1243 303
+userscript.html:51:5
+move--> 1526645466155 1245 305
+userscript.html:51:5
+move--> 1526645466172 1246 306
+userscript.html:51:5
+move--> 1526645466189 1247 307
+userscript.html:51:5
+move--> 1526645466206 1247 307
+userscript.html:51:5
+move--> 1526645466223 1247 307
+userscript.html:51:5
+click-> 1526645466368 1
+userscript.html:69:5
+move--> 1526645466837 1195 294
+userscript.html:51:5
+move--> 1526645466925 1082 273
+userscript.html:51:5
+move--> 1526645466962 1024 263
+userscript.html:51:5
+move--> 1526645466974 1004 262
+userscript.html:51:5
+move--> 1526645466988 977 261
+userscript.html:51:5
+move--> 1526645467005 976 261
+userscript.html:51:5
+move--> 1526645467021 923 257
+userscript.html:51:5
+move--> 1526645467038 899 255
+userscript.html:51:5
+move--> 1526645467054 878 255
+userscript.html:51:5
+move--> 1526645467072 863 257
+userscript.html:51:5
+move--> 1526645467088 834 260
+userscript.html:51:5
+move--> 1526645467104 814 260
+userscript.html:51:5
+move--> 1526645467121 793 258
+userscript.html:51:5
+move--> 1526645467138 777 257
+userscript.html:51:5
+move--> 1526645467172 749 256
+userscript.html:51:5
+move--> 1526645467256 697 260
+userscript.html:51:5
+move--> 1526645467272 696 261
+userscript.html:51:5
+move--> 1526645467588 696 261
+userscript.html:51:5
+move--> 1526645467621 692 273
+userscript.html:51:5
+move--> 1526645467688 686 282
+userscript.html:51:5
+move--> 1526645467721 676 289
+userscript.html:51:5
+move--> 1526645467754 669 293
+userscript.html:51:5
+move--> 1526645467789 664 295
+userscript.html:51:5
+move--> 1526645467838 659 296
+userscript.html:51:5
+move--> 1526645467856 658 296
+userscript.html:51:5
+move--> 1526645467871 658 296
+userscript.html:51:5
+move--> 1526645467904 657 296
+userscript.html:51:5
+move--> 1526645467972 657 296
+userscript.html:51:5
+move--> 1526645468256 657 392
+userscript.html:51:5
+move--> 1526645468421 657 391
+userscript.html:51:5
+move--> 1526645468488 657 391
+userscript.html:51:5
+move--> 1526645472660 658 572
+userscript.html:51:5
+move--> 1526645472876 658 633
+userscript.html:51:5
+move--> 1526645472891 658 637
+userscript.html:51:5
+move--> 1526645472909 659 640
+userscript.html:51:5
+move--> 1526645472924 659 641
+userscript.html:51:5
+move--> 1526645472943 659 642
+userscript.html:51:5
+move--> 1526645472959 659 643
+userscript.html:51:5
+move--> 1526645472975 659 643
+userscript.html:51:5
+move--> 1526645476460 658 645
+userscript.html:51:5
+move--> 1526645476477 658 646
+userscript.html:51:5
+move--> 1526645476494 657 647
+userscript.html:51:5
+move--> 1526645476511 657 647
+userscript.html:51:5
+move--> 1526645476577 656 647
+userscript.html:51:5
+move--> 1526645476594 656 647
+userscript.html:51:5
+move--> 1526645476626 656 648
+userscript.html:51:5
+move--> 1526645476660 656 648
+userscript.html:51:5
+move--> 1526645476677 655 648
+userscript.html:51:5
+move--> 1526645477328 655 644
+userscript.html:51:5
+move--> 1526645477346 655 640
+userscript.html:51:5
+move--> 1526645477361 655 633
+userscript.html:51:5
+move--> 1526645484278 653 649
+userscript.html:51:5
+move--> 1526645484295 650 649
+userscript.html:51:5
+move--> 1526645484312 646 649
+userscript.html:51:5
+move--> 1526645484328 639 649
+userscript.html:51:5
+move--> 1526645484345 636 649
+userscript.html:51:5
+move--> 1526645484362 621 648
+userscript.html:51:5
+move--> 1526645484379 608 646
+userscript.html:51:5
+move--> 1526645484396 593 632
+userscript.html:51:5
+move--> 1526645484412 588 614
+userscript.html:51:5
+move--> 1526645484428 555 607
+userscript.html:51:5
+move--> 1526645484446 534 576
+userscript.html:51:5
+move--> 1526645484463 514 537
+userscript.html:51:5
+move--> 1526645484483 500 499
+userscript.html:51:5
+move--> 1526645484517 467 421
+userscript.html:51:5
+move--> 1526645484529 454 356
+userscript.html:51:5
+move--> 1526645484552 437 323
+userscript.html:51:5
+move--> 1526645484580 431 292
+userscript.html:51:5
+move--> 1526645484611 382 257
+userscript.html:51:5
+move--> 1526645484634 359 250
+userscript.html:51:5
+move--> 1526645484653 349 248
+userscript.html:51:5
+move--> 1526645484695 305 238
+userscript.html:51:5
+move--> 1526645484713 293 234
+userscript.html:51:5
+move--> 1526645484729 286 233
+userscript.html:51:5
+move--> 1526645484745 282 232
+userscript.html:51:5
+move--> 1526645484762 279 231
+userscript.html:51:5
+move--> 1526645484779 278 231
+userscript.html:51:5
+move--> 1526645484796 277 230
+userscript.html:51:5
+move--> 1526645484812 275 230
+userscript.html:51:5
+move--> 1526645484845 269 226
+userscript.html:51:5
+move--> 1526645484862 268 224
+userscript.html:51:5
+move--> 1526645485062 269 224
+userscript.html:51:5
+move--> 1526645485080 267 224
+userscript.html:51:5
+move--> 1526645485095 263 222
+userscript.html:51:5
+move--> 1526645485111 259 219
+userscript.html:51:5
+move--> 1526645485129 258 218
+userscript.html:51:5
+move--> 1526645485146 248 211
+userscript.html:51:5
+move--> 1526645485162 238 204
+userscript.html:51:5
+move--> 1526645485179 227 195
+userscript.html:51:5
+move--> 1526645485195 222 191
+userscript.html:51:5
+move--> 1526645485212 206 177
+userscript.html:51:5
+move--> 1526645485229 197 169
+userscript.html:51:5
+move--> 1526645485246 189 163
+userscript.html:51:5
+move--> 1526645485261 184 160
+userscript.html:51:5
+move--> 1526645485278 175 154
+userscript.html:51:5
+move--> 1526645485295 170 150
+userscript.html:51:5
+move--> 1526645485312 165 146
+userscript.html:51:5
+move--> 1526645485333 163 144
+userscript.html:51:5
+move--> 1526645485362 154 139
+userscript.html:51:5
+move--> 1526645485378 150 137
+userscript.html:51:5
+move--> 1526645485395 144 135
+userscript.html:51:5
+move--> 1526645485412 141 133
+userscript.html:51:5
+move--> 1526645485428 130 125
+userscript.html:51:5
+move--> 1526645485445 122 117
+userscript.html:51:5
+move--> 1526645485463 115 110
+userscript.html:51:5
+move--> 1526645485478 110 105
+userscript.html:51:5
+move--> 1526645485495 96 90
+userscript.html:51:5
+move--> 1526645485513 84 79
+userscript.html:51:5
+move--> 1526645485531 72 70
+userscript.html:51:5
+move--> 1526645485551 64 64
+userscript.html:51:5
+move--> 1526645485598 48 53
+userscript.html:51:5
+move--> 1526645485617 51 52
+userscript.html:51:5
+move--> 1526645485631 56 54
+userscript.html:51:5
+move--> 1526645485649 58 54
+userscript.html:51:5
+move--> 1526645485845 57 54
+userscript.html:51:5
+move--> 1526645485861 55 55
+userscript.html:51:5
+move--> 1526645485878 52 55
+userscript.html:51:5
+move--> 1526645485895 50 54
+userscript.html:51:5
+move--> 1526645485912 49 53
+userscript.html:51:5
+move--> 1526645485928 47 51
+userscript.html:51:5
+move--> 1526645485945 45 48
+userscript.html:51:5
+move--> 1526645485962 43 46
+userscript.html:51:5
+move--> 1526645485978 41 45
+userscript.html:51:5
+move--> 1526645485996 37 41
+userscript.html:51:5
+move--> 1526645486011 34 38
+userscript.html:51:5
+move--> 1526645486028 32 36
+userscript.html:51:5
+move--> 1526645486045 32 35
+userscript.html:51:5
+move--> 1526645486061 30 31
+userscript.html:51:5
+move--> 1526645486079 29 28
+userscript.html:51:5
+move--> 1526645486095 28 24
+userscript.html:51:5
+move--> 1526645486112 28 23
+userscript.html:51:5
+move--> 1526645486128 26 19
+userscript.html:51:5
+move--> 1526645486146 25 16
+userscript.html:51:5
+move--> 1526645486161 25 15
+userscript.html:51:5
+move--> 1526645486178 24 14
+userscript.html:51:5
+move--> 1526645486199 24 11
+userscript.html:51:5
+move--> 1526645486217 24 9
+userscript.html:51:5
+move--> 1526645486235 24 8
+userscript.html:51:5
+move--> 1526645486252 24 7
+userscript.html:51:5
+move--> 1526645486267 24 4
+userscript.html:51:5
+move--> 1526645486285 25 2
+userscript.html:51:5
+move--> 1526645486290 25 1
+userscript.html:51:5
+move--> 1526645487820 379 141
+userscript.html:51:5
+move--> 1526645488020 379 141
+userscript.html:51:5
+move--> 1526645488052 379 141
+userscript.html:51:5
+move--> 1526645488069 380 141
+userscript.html:51:5
+move--> 1526645488086 380 141
+userscript.html:51:5
+move--> 1526645488135 380 141
+userscript.html:51:5
+move--> 1526645488260 380 141
+userscript.html:51:5
+move--> 1526645488284 391 150
+userscript.html:51:5
+move--> 1526645488302 392 150
+userscript.html:51:5
+move--> 1526645488335 414 158
+userscript.html:51:5
+move--> 1526645488351 417 159
+userscript.html:51:5
+move--> 1526645488402 444 167
+userscript.html:51:5
+move--> 1526645488469 431 166
+userscript.html:51:5
+move--> 1526645488601 428 166
+userscript.html:51:5
+move--> 1526645488619 422 166
+userscript.html:51:5
+move--> 1526645488635 419 165
+userscript.html:51:5
+move--> 1526645488686 416 166
+userscript.html:51:5
+move--> 1526645488721 420 169
+userscript.html:51:5
+move--> 1526645488790 443 181
+userscript.html:51:5
+move--> 1526645488801 444 181
+userscript.html:51:5
+move--> 1526645488869 507 201
+userscript.html:51:5
+move--> 1526645488985 617 205
+userscript.html:51:5
+move--> 1526645489001 632 203
+userscript.html:51:5
+move--> 1526645489068 671 199
+userscript.html:51:5
+move--> 1526645489086 680 198
+userscript.html:51:5
+move--> 1526645489117 694 194
+userscript.html:51:5
+move--> 1526645489169 703 189
+userscript.html:51:5
+move--> 1526645489186 703 188
+userscript.html:51:5
+move--> 1526645489236 684 181
+userscript.html:51:5
+move--> 1526645489286 650 180
+userscript.html:51:5
+move--> 1526645489468 649 180
+userscript.html:51:5
+move--> 1526645493353 687 179
+userscript.html:51:5
+move--> 1526645493370 688 179
+userscript.html:51:5
+move--> 1526645493386 689 179
+userscript.html:51:5
+move--> 1526645493404 689 179
+userscript.html:51:5
+move--> 1526645493420 691 179
+userscript.html:51:5
+move--> 1526645493436 694 179
+userscript.html:51:5
+move--> 1526645493453 695 179
+userscript.html:51:5
+move--> 1526645493470 696 178
+userscript.html:51:5
+move--> 1526645493553 695 178
+userscript.html:51:5
+move--> 1526645493571 692 180
+userscript.html:51:5
+move--> 1526645493587 688 182
+userscript.html:51:5
+move--> 1526645493603 684 184
+userscript.html:51:5
+move--> 1526645493620 682 186
+userscript.html:51:5
+move--> 1526645493636 668 192
+userscript.html:51:5
+move--> 1526645493653 654 196
+userscript.html:51:5
+move--> 1526645493669 639 199
+userscript.html:51:5
+move--> 1526645493686 634 200
+userscript.html:51:5
+move--> 1526645493703 614 204
+userscript.html:51:5
+move--> 1526645493720 604 206
+userscript.html:51:5
+move--> 1526645493736 597 207
+userscript.html:51:5
+move--> 1526645493753 594 207
+userscript.html:51:5
+move--> 1526645493771 589 208
+userscript.html:51:5
+move--> 1526645493786 587 208
+userscript.html:51:5
+move--> 1526645493804 585 208
+userscript.html:51:5
+move--> 1526645493821 585 208
+userscript.html:51:5
+move--> 1526645494186 582 210
+userscript.html:51:5
+move--> 1526645494203 579 213
+userscript.html:51:5
+move--> 1526645494220 574 215
+userscript.html:51:5
+move--> 1526645494236 569 218
+userscript.html:51:5
+move--> 1526645494253 568 218
+userscript.html:51:5
+move--> 1526645494269 558 224
+userscript.html:51:5
+move--> 1526645494286 551 226
+userscript.html:51:5
+move--> 1526645494303 544 229
+userscript.html:51:5
+move--> 1526645494320 543 230
+userscript.html:51:5
+move--> 1526645494336 527 235
+userscript.html:51:5
+move--> 1526645494353 517 238
+userscript.html:51:5
+move--> 1526645494370 509 241
+userscript.html:51:5
+move--> 1526645494387 503 243
+userscript.html:51:5
+move--> 1526645494405 492 247
+userscript.html:51:5
+move--> 1526645494421 485 250
+userscript.html:51:5
+move--> 1526645494436 479 253
+userscript.html:51:5
+move--> 1526645494453 475 254
+userscript.html:51:5
+move--> 1526645494470 469 257
+userscript.html:51:5
+move--> 1526645494487 465 259
+userscript.html:51:5
+move--> 1526645494503 463 262
+userscript.html:51:5
+move--> 1526645494521 461 264
+userscript.html:51:5
+move--> 1526645494536 459 268
+userscript.html:51:5
+move--> 1526645494553 457 272
+userscript.html:51:5
+move--> 1526645494570 455 277
+userscript.html:51:5
+move--> 1526645494587 455 281
+userscript.html:51:5
+move--> 1526645494602 458 285
+userscript.html:51:5
+move--> 1526645494620 463 286
+userscript.html:51:5
+move--> 1526645494636 472 287
+userscript.html:51:5
+move--> 1526645494653 488 284
+userscript.html:51:5
+move--> 1526645494670 509 279
+userscript.html:51:5
+move--> 1526645494688 532 274
+userscript.html:51:5
+move--> 1526645494703 558 268
+userscript.html:51:5
+move--> 1526645494720 587 259
+userscript.html:51:5
+move--> 1526645494736 613 249
+userscript.html:51:5
+move--> 1526645494754 643 236
+userscript.html:51:5
+move--> 1526645494770 664 226
+userscript.html:51:5
+move--> 1526645494787 674 219
+userscript.html:51:5
+move--> 1526645494803 678 214
+userscript.html:51:5
+move--> 1526645494820 680 210
+userscript.html:51:5
+move--> 1526645494837 681 208
+userscript.html:51:5
+move--> 1526645494853 681 207
+userscript.html:51:5
+move--> 1526645494888 681 207
+userscript.html:51:5
+move--> 1526645494903 681 207
+userscript.html:51:5
+move--> 1526645494920 679 208
+userscript.html:51:5
+move--> 1526645494937 678 209
+userscript.html:51:5
+move--> 1526645494953 673 214
+userscript.html:51:5
+move--> 1526645494970 669 219
+userscript.html:51:5
+move--> 1526645494986 663 224
+userscript.html:51:5
+move--> 1526645495003 659 227
+userscript.html:51:5
+move--> 1526645495019 651 235
+userscript.html:51:5
+move--> 1526645495037 645 241
+userscript.html:51:5
+move--> 1526645495054 641 247
+userscript.html:51:5
+move--> 1526645495070 638 251
+userscript.html:51:5
+move--> 1526645495086 632 260
+userscript.html:51:5
+move--> 1526645495103 626 267
+userscript.html:51:5
+move--> 1526645495120 619 274
+userscript.html:51:5
+move--> 1526645495137 614 279
+userscript.html:51:5
+move--> 1526645495170 600 291
+userscript.html:51:5
+move--> 1526645495187 594 296
+userscript.html:51:5
+move--> 1526645495203 587 301
+userscript.html:51:5
+move--> 1526645495220 583 303
+userscript.html:51:5
+move--> 1526645495236 573 308
+userscript.html:51:5
+move--> 1526645495253 569 309
+userscript.html:51:5
+move--> 1526645495270 566 309
+userscript.html:51:5
+move--> 1526645495286 565 309
+userscript.html:51:5
+move--> 1526645495304 570 307
+userscript.html:51:5
+move--> 1526645495320 580 303
+userscript.html:51:5
+move--> 1526645495337 595 295
+userscript.html:51:5
+move--> 1526645495354 600 293
+userscript.html:51:5
+move--> 1526645495470 602 292
+userscript.html:51:5
+move--> 1526645495487 603 291
+userscript.html:51:5
+move--> 1526645495504 603 291
+userscript.html:51:5
+move--> 1526645495521 602 291
+userscript.html:51:5
+move--> 1526645495537 602 291
+userscript.html:51:5
+move--> 1526645495553 597 293
+userscript.html:51:5
+move--> 1526645495570 593 294
+userscript.html:51:5
+move--> 1526645495586 590 296
+userscript.html:51:5
+move--> 1526645495603 588 298
+userscript.html:51:5
+move--> 1526645495620 584 302
+userscript.html:51:5
+move--> 1526645495637 580 305
+userscript.html:51:5
+move--> 1526645495653 576 309
+userscript.html:51:5
+move--> 1526645495670 572 312
+userscript.html:51:5
+move--> 1526645495686 566 316
+userscript.html:51:5
+move--> 1526645495703 561 320
+userscript.html:51:5
+move--> 1526645495722 555 324
+userscript.html:51:5
+move--> 1526645495736 551 326
+userscript.html:51:5
+move--> 1526645495770 542 329
+userscript.html:51:5
+move--> 1526645495786 540 330
+userscript.html:51:5
+move--> 1526645495804 539 330
+userscript.html:51:5
+move--> 1526645495819 539 330
+userscript.html:51:5
+move--> 1526645495836 536 331
+userscript.html:51:5
+move--> 1526645495853 535 331
+userscript.html:51:5
+move--> 1526645495871 535 332
+userscript.html:51:5
+move--> 1526645500371 537 330
+userscript.html:51:5
+move--> 1526645500404 539 329
+userscript.html:51:5
+move--> 1526645500421 540 329
+userscript.html:51:5
+move--> 1526645500437 540 328
+userscript.html:51:5
+move--> 1526645500504 541 328
+userscript.html:51:5
+move--> 1526645501022 515 312
+userscript.html:51:5
+move--> 1526645501054 495 303
+userscript.html:51:5
+move--> 1526645501122 464 287
+userscript.html:51:5
+move--> 1526645501154 444 276
+userscript.html:51:5
+move--> 1526645501204 425 262
+userscript.html:51:5
+move--> 1526645501237 410 253
+userscript.html:51:5
+move--> 1526645501303 389 241
+userscript.html:51:5
+move--> 1526645501336 380 236
+userscript.html:51:5
+move--> 1526645501402 369 230
+userscript.html:51:5
+move--> 1526645501420 368 229
+userscript.html:51:5
+move--> 1526645501469 368 229
+userscript.html:51:5
+move--> 1526645501553 368 227
+userscript.html:51:5
+move--> 1526645501569 368 227
+userscript.html:51:5
+move--> 1526645501636 372 226
+userscript.html:51:5
+move--> 1526645501686 378 225
+userscript.html:51:5
+move--> 1526645501720 381 224
+userscript.html:51:5
+move--> 1526645501786 400 222
+userscript.html:51:5
+move--> 1526645501803 407 221
+userscript.html:51:5
+move--> 1526645501853 434 219
+userscript.html:51:5
+move--> 1526645501886 448 216
+userscript.html:51:5
+move--> 1526645501903 451 215
+userscript.html:51:5
+move--> 1526645501953 467 211
+userscript.html:51:5
+move--> 1526645501969 471 209
+userscript.html:51:5
+move--> 1526645502020 477 207
+userscript.html:51:5
+move--> 1526645502054 480 207
+userscript.html:51:5
+move--> 1526645505686 432 190
+userscript.html:51:5
+move--> 1526645509372 432 190
+userscript.html:51:5
+move--> 1526645509388 433 190
+userscript.html:51:5
+move--> 1526645509405 433 190
+userscript.html:51:5
+move--> 1526645509923 433 190
+userscript.html:51:5
+move--> 1526645509973 433 190
+userscript.html:51:5
+move--> 1526645510039 434 190
+userscript.html:51:5
+move--> 1526645510073 434 190
+userscript.html:51:5
+move--> 1526645510605 432 190
+userscript.html:51:5
+move--> 1526645510621 431 190
+userscript.html:51:5
+move--> 1526645510639 429 190
+userscript.html:51:5
+move--> 1526645510655 426 190
+userscript.html:51:5
+move--> 1526645510673 426 190
+userscript.html:51:5
+move--> 1526645510706 421 191
+userscript.html:51:5
+move--> 1526645510722 420 192
+userscript.html:51:5
+move--> 1526645510738 418 192
+userscript.html:51:5
+move--> 1526645510757 416 193
+userscript.html:51:5
+move--> 1526645510806 406 196
+userscript.html:51:5
+move--> 1526645510822 402 196
+userscript.html:51:5
+move--> 1526645510838 399 197
+userscript.html:51:5
+move--> 1526645510855 398 197
+userscript.html:51:5
+move--> 1526645510888 393 198
+userscript.html:51:5
+move--> 1526645510905 391 199
+userscript.html:51:5
+move--> 1526645510921 388 199
+userscript.html:51:5
+move--> 1526645510938 386 200
+userscript.html:51:5
+move--> 1526645510972 383 200
+userscript.html:51:5
+move--> 1526645510989 382 200
+userscript.html:51:5
+move--> 1526645511006 382 200
+userscript.html:51:5
+move--> 1526645511038 381 200
+userscript.html:51:5
+move--> 1526645511055 381 200
+userscript.html:51:5
+move--> 1526645511072 380 201
+userscript.html:51:5
+move--> 1526645511090 380 201
+userscript.html:51:5
+move--> 1526645511106 380 201
+userscript.html:51:5
+move--> 1526645511122 379 201
+userscript.html:51:5
+move--> 1526645511139 379 201
+userscript.html:51:5
+move--> 1526645511155 377 201
+userscript.html:51:5
+move--> 1526645511172 376 202
+userscript.html:51:5
+move--> 1526645511205 372 204
+userscript.html:51:5
+move--> 1526645511221 371 204
+userscript.html:51:5
+move--> 1526645511238 370 205
+userscript.html:51:5
+move--> 1526645511252 369 205
+userscript.html:51:5
+move--> 1526645511282 367 206
+userscript.html:51:5
+move--> 1526645511299 366 206
+userscript.html:51:5
+move--> 1526645511316 365 207
+userscript.html:51:5
+move--> 1526645511348 365 207
+userscript.html:51:5
+move--> 1526645511365 364 207
+userscript.html:51:5
+move--> 1526645511381 363 207
+userscript.html:51:5
+move--> 1526645511398 362 208
+userscript.html:51:5
+move--> 1526645511414 362 208
+userscript.html:51:5
+move--> 1526645511431 360 209
+userscript.html:51:5
+move--> 1526645511449 358 209
+userscript.html:51:5
+move--> 1526645511465 357 210
+userscript.html:51:5
+move--> 1526645511481 355 210
+userscript.html:51:5
+move--> 1526645511498 352 211
+userscript.html:51:5
+move--> 1526645511516 350 212
+userscript.html:51:5
+move--> 1526645511531 348 213
+userscript.html:51:5
+move--> 1526645511550 346 213
+userscript.html:51:5
+move--> 1526645511566 342 214
+userscript.html:51:5
+move--> 1526645511584 340 215
+userscript.html:51:5
+move--> 1526645511599 337 216
+userscript.html:51:5
+move--> 1526645511615 334 216
+userscript.html:51:5
+move--> 1526645511631 332 217
+userscript.html:51:5
+move--> 1526645511648 332 217
+userscript.html:51:5
+move--> 1526645511682 329 218
+userscript.html:51:5
+move--> 1526645511916 329 218
+userscript.html:51:5
+move--> 1526645511932 328 218
+userscript.html:51:5
+move--> 1526645511949 328 218
+userscript.html:51:5
+move--> 1526645511964 328 218
+userscript.html:51:5
+move--> 1526645511997 327 218
+userscript.html:51:5
+move--> 1526645512015 327 219
+userscript.html:51:5
+move--> 1526645512048 326 219
+userscript.html:51:5
+move--> 1526645512115 326 219
+userscript.html:51:5
+move--> 1526645512131 326 218
+userscript.html:51:5
+move--> 1526645512148 326 218
+userscript.html:51:5
+move--> 1526645512165 326 217
+userscript.html:51:5
+move--> 1526645512181 326 216
+userscript.html:51:5
+move--> 1526645512198 326 214
+userscript.html:51:5
+move--> 1526645512218 326 212
+userscript.html:51:5
+move--> 1526645512231 327 211
+userscript.html:51:5
+move--> 1526645512248 327 209
+userscript.html:51:5
+move--> 1526645512282 328 206
+userscript.html:51:5
+move--> 1526645512298 328 205
+userscript.html:51:5
+move--> 1526645512315 328 203
+userscript.html:51:5
+move--> 1526645512331 328 202
+userscript.html:51:5
+move--> 1526645512348 328 199
+userscript.html:51:5
+move--> 1526645512365 327 196
+userscript.html:51:5
+move--> 1526645512381 327 193
+userscript.html:51:5
+move--> 1526645512398 325 190
+userscript.html:51:5
+move--> 1526645512431 319 183
+userscript.html:51:5
+move--> 1526645512448 316 178
+userscript.html:51:5
+move--> 1526645512464 311 174
+userscript.html:51:5
+move--> 1526645512481 310 172
+userscript.html:51:5
+move--> 1526645512498 301 165
+userscript.html:51:5
+move--> 1526645512514 297 162
+userscript.html:51:5
+move--> 1526645512531 294 159
+userscript.html:51:5
+move--> 1526645512548 292 157
+userscript.html:51:5
+move--> 1526645512565 290 155
+userscript.html:51:5
+move--> 1526645512582 290 154
+userscript.html:51:5
+move--> 1526645512598 289 152
+userscript.html:51:5
+move--> 1526645512614 289 150
+userscript.html:51:5
+move--> 1526645512649 284 140
+userscript.html:51:5
+move--> 1526645512664 283 137
+userscript.html:51:5
+move--> 1526645512681 281 133
+userscript.html:51:5
+move--> 1526645512698 280 131
+userscript.html:51:5
+move--> 1526645512714 278 127
+userscript.html:51:5
+move--> 1526645512731 276 124
+userscript.html:51:5
+move--> 1526645512748 275 121
+userscript.html:51:5
+move--> 1526645512765 274 120
+userscript.html:51:5
+move--> 1526645512782 274 118
+userscript.html:51:5
+move--> 1526645512801 273 117
+userscript.html:51:5
+move--> 1526645512815 273 116
+userscript.html:51:5
+move--> 1526645512832 273 115
+userscript.html:51:5
+move--> 1526645512865 273 112
+userscript.html:51:5
+move--> 1526645512882 273 110
+userscript.html:51:5
+move--> 1526645512902 272 108
+userscript.html:51:5
+move--> 1526645512914 272 106
+userscript.html:51:5
+move--> 1526645512948 272 102
+userscript.html:51:5
+move--> 1526645512966 272 96
+userscript.html:51:5
+move--> 1526645512983 271 95
+userscript.html:51:5
+move--> 1526645512999 271 94
+userscript.html:51:5
+move--> 1526645513015 271 94
+userscript.html:51:5
+move--> 1526645513036 271 93
+userscript.html:51:5
+move--> 1526645516536 271 95
+userscript.html:51:5
+move--> 1526645516550 271 97
+userscript.html:51:5
+move--> 1526645516567 270 98
+userscript.html:51:5
+move--> 1526645516584 270 100
+userscript.html:51:5
+move--> 1526645516601 270 100
+userscript.html:51:5
+move--> 1526645516616 270 101
+userscript.html:51:5
+move--> 1526645516634 270 103
+userscript.html:51:5
+move--> 1526645516649 270 104
+userscript.html:51:5
+move--> 1526645516666 270 106
+userscript.html:51:5
+move--> 1526645516683 269 107
+userscript.html:51:5
+move--> 1526645516703 269 111
+userscript.html:51:5
+move--> 1526645516716 268 114
+userscript.html:51:5
+move--> 1526645516733 267 117
+userscript.html:51:5
+move--> 1526645516750 267 120
+userscript.html:51:5
+move--> 1526645516800 264 134
+userscript.html:51:5
+move--> 1526645516817 264 134
+userscript.html:51:5
+move--> 1526645516833 262 141
+userscript.html:51:5
+move--> 1526645516850 261 143
+userscript.html:51:5
+move--> 1526645516884 260 149
+userscript.html:51:5
+move--> 1526645516900 259 151
+userscript.html:51:5
+move--> 1526645516916 259 155
+userscript.html:51:5
+move--> 1526645516933 258 157
+userscript.html:51:5
+move--> 1526645516966 257 164
+userscript.html:51:5
+move--> 1526645516983 257 167
+userscript.html:51:5
+move--> 1526645516999 257 169
+userscript.html:51:5
+move--> 1526645517016 257 172
+userscript.html:51:5
+move--> 1526645517049 256 179
+userscript.html:51:5
+move--> 1526645517066 256 182
+userscript.html:51:5
+move--> 1526645517084 256 186
+userscript.html:51:5
+move--> 1526645517099 256 187
+userscript.html:51:5
+move--> 1526645517116 256 195
+userscript.html:51:5
+move--> 1526645517132 256 197
+userscript.html:51:5
+move--> 1526645517150 256 200
+userscript.html:51:5
+move--> 1526645517166 256 201
+userscript.html:51:5
+move--> 1526645517183 256 205
+userscript.html:51:5
+move--> 1526645517199 256 207
+userscript.html:51:5
+move--> 1526645517216 257 209
+userscript.html:51:5
+move--> 1526645517233 257 210
+userscript.html:51:5
+move--> 1526645517250 257 212
+userscript.html:51:5
+move--> 1526645517268 258 214
+userscript.html:51:5
+move--> 1526645517283 258 215
+userscript.html:51:5
+move--> 1526645517300 259 216
+userscript.html:51:5
+move--> 1526645517333 259 216
+userscript.html:51:5
+move--> 1526645517368 259 217
+userscript.html:51:5
+move--> 1526645517383 259 217
+userscript.html:51:5
+move--> 1526645517399 260 219
+userscript.html:51:5
+move--> 1526645517417 261 220
+userscript.html:51:5
+move--> 1526645517433 261 220
+userscript.html:51:5
+move--> 1526645517449 261 221
+userscript.html:51:5
+move--> 1526645517467 263 222
+userscript.html:51:5
+move--> 1526645517483 263 222
+userscript.html:51:5
+move--> 1526645517501 263 223
+userscript.html:51:5
+move--> 1526645517517 263 223
+userscript.html:51:5
+move--> 1526645517550 265 226
+userscript.html:51:5
+move--> 1526645517566 266 228
+userscript.html:51:5
+move--> 1526645517584 266 229
+userscript.html:51:5
+move--> 1526645517600 266 229
+userscript.html:51:5
+move--> 1526645517633 266 229
+userscript.html:51:5
+move--> 1526645517650 267 229
+userscript.html:51:5
+move--> 1526645517666 267 229
+userscript.html:51:5
+move--> 1526645517684 268 230
+userscript.html:51:5
+move--> 1526645517700 268 230
+userscript.html:51:5
+click-> 1526645518170 2
+userscript.html:69:5
+load-->  1526645518594 https://twitter.com/TPersonfive
+userscript.html:76:7
+move--> 1526645519410 270 230
+userscript.html:51:5
+move--> 1526645519583 270 230
+userscript.html:51:5
+move--> 1526645519742 270 230
+userscript.html:51:5
+move--> 1526645519754 270 229
+userscript.html:51:5
+move--> 1526645519767 270 228
+userscript.html:51:5
+move--> 1526645519785 270 228
+userscript.html:51:5
+move--> 1526645519808 270 227
+userscript.html:51:5
+move--> 1526645519818 270 226
+userscript.html:51:5
+move--> 1526645519867 273 224
+userscript.html:51:5
+move--> 1526645519884 275 223
+userscript.html:51:5
+move--> 1526645519900 276 223
+userscript.html:51:5
+move--> 1526645519917 278 223
+userscript.html:51:5
+move--> 1526645519966 285 224
+userscript.html:51:5
+move--> 1526645519982 290 224
+userscript.html:51:5
+move--> 1526645520000 293 226
+userscript.html:51:5
+move--> 1526645520016 295 228
+userscript.html:51:5
+move--> 1526645520033 296 228
+userscript.html:51:5
+move--> 1526645520067 303 233
+userscript.html:51:5
+move--> 1526645520084 311 237
+userscript.html:51:5
+move--> 1526645520099 320 241
+userscript.html:51:5
+move--> 1526645520116 330 245
+userscript.html:51:5
+move--> 1526645520134 331 245
+userscript.html:51:5
+move--> 1526645520152 348 253
+userscript.html:51:5
+move--> 1526645520183 362 259
+userscript.html:51:5
+move--> 1526645520200 367 261
+userscript.html:51:5
+move--> 1526645520234 374 264
+userscript.html:51:5
+move--> 1526645520250 374 265
+userscript.html:51:5
+move--> 1526645520266 374 266
+userscript.html:51:5
+move--> 1526645520283 374 266
+userscript.html:51:5
+move--> 1526645520316 376 270
+userscript.html:51:5
+move--> 1526645520332 376 271
+userscript.html:51:5
+move--> 1526645520350 376 272
+userscript.html:51:5
+move--> 1526645520367 376 273
+userscript.html:51:5
+move--> 1526645520383 376 273
+userscript.html:51:5
+move--> 1526645520399 376 275
+userscript.html:51:5
+move--> 1526645520416 375 278
+userscript.html:51:5
+move--> 1526645520433 374 279
+userscript.html:51:5
+move--> 1526645520467 366 294
+userscript.html:51:5
+move--> 1526645520483 363 301
+userscript.html:51:5
+move--> 1526645520500 359 307
+userscript.html:51:5
+move--> 1526645520518 356 311
+userscript.html:51:5
+move--> 1526645520534 354 312
+userscript.html:51:5
+move--> 1526645520566 353 313
+userscript.html:51:5
+move--> 1526645520616 356 311
+userscript.html:51:5
+move--> 1526645520633 359 308
+userscript.html:51:5
+move--> 1526645520667 368 300
+userscript.html:51:5
+move--> 1526645520882 368 299
+userscript.html:51:5
+move--> 1526645520899 368 296
+userscript.html:51:5
+move--> 1526645520916 368 295
+userscript.html:51:5
+move--> 1526645520934 367 295
+userscript.html:51:5
+move--> 1526645520966 367 296
+userscript.html:51:5
+move--> 1526645520983 366 298
+userscript.html:51:5
+move--> 1526645520999 366 301
+userscript.html:51:5
+move--> 1526645521016 365 304
+userscript.html:51:5
+move--> 1526645521033 364 305
+userscript.html:51:5
+move--> 1526645521049 364 307
+userscript.html:51:5
+move--> 1526645521066 363 310
+userscript.html:51:5
+move--> 1526645521082 363 313
+userscript.html:51:5
+move--> 1526645521100 364 317
+userscript.html:51:5
+move--> 1526645521116 364 318
+userscript.html:51:5
+move--> 1526645521133 366 329
+userscript.html:51:5
+move--> 1526645521149 367 334
+userscript.html:51:5
+move--> 1526645521166 369 339
+userscript.html:51:5
+move--> 1526645521183 370 342
+userscript.html:51:5
+move--> 1526645521217 374 350
+userscript.html:51:5
+move--> 1526645521233 375 353
+userscript.html:51:5
+move--> 1526645521250 377 356
+userscript.html:51:5
+move--> 1526645521266 378 356
+userscript.html:51:5
+move--> 1526645521300 388 358
+userscript.html:51:5
+move--> 1526645521317 392 358
+userscript.html:51:5
+move--> 1526645521334 394 359
+userscript.html:51:5
+move--> 1526645521350 396 359
+userscript.html:51:5
+move--> 1526645521383 403 360
+userscript.html:51:5
+move--> 1526645521400 407 361
+userscript.html:51:5
+move--> 1526645521416 412 361
+userscript.html:51:5
+move--> 1526645521433 414 362
+userscript.html:51:5
+move--> 1526645521451 424 365
+userscript.html:51:5
+move--> 1526645521467 428 368
+userscript.html:51:5
+move--> 1526645521483 432 371
+userscript.html:51:5
+move--> 1526645521500 435 373
+userscript.html:51:5
+move--> 1526645521533 450 381
+userscript.html:51:5
+move--> 1526645521550 454 383
+userscript.html:51:5
+move--> 1526645521567 464 386
+userscript.html:51:5
+move--> 1526645521583 466 387
+userscript.html:51:5
+move--> 1526645521616 476 392
+userscript.html:51:5
+move--> 1526645521633 480 395
+userscript.html:51:5
+move--> 1526645521650 485 398
+userscript.html:51:5
+move--> 1526645521667 487 399
+userscript.html:51:5
+move--> 1526645521683 494 404
+userscript.html:51:5
+move--> 1526645521700 497 405
+userscript.html:51:5
+move--> 1526645521716 499 406
+userscript.html:51:5
+move--> 1526645521734 499 406
+userscript.html:51:5
+move--> 1526645521850 499 406
+userscript.html:51:5
+move--> 1526645522068 500 406
+userscript.html:51:5
+move--> 1526645522083 500 406
+userscript.html:51:5
+move--> 1526645522100 500 406
+userscript.html:51:5
+move--> 1526645522200 501 406
+userscript.html:51:5
+move--> 1526645522217 501 406
+userscript.html:51:5
+move--> 1526645522301 501 406
+userscript.html:51:5
+move--> 1526645522317 502 406
+userscript.html:51:5
+move--> 1526645522333 502 406
+userscript.html:51:5
+move--> 1526645522433 502 406
+userscript.html:51:5
+move--> 1526645522452 503 406
+userscript.html:51:5
+move--> 1526645522468 503 406
+userscript.html:51:5
+move--> 1526645522516 503 406
+userscript.html:51:5
+move--> 1526645522533 503 406
+userscript.html:51:5
+move--> 1526645526886 506 406
+userscript.html:51:5
+move--> 1526645526902 513 407
+userscript.html:51:5
+move--> 1526645526919 522 408
+userscript.html:51:5
+move--> 1526645526936 536 408
+userscript.html:51:5
+move--> 1526645526953 544 409
+userscript.html:51:5
+move--> 1526645526986 627 413
+userscript.html:51:5
+move--> 1526645527002 660 414
+userscript.html:51:5
+move--> 1526645527019 688 413
+userscript.html:51:5
+move--> 1526645527035 708 412
+userscript.html:51:5
+move--> 1526645527052 724 409
+userscript.html:51:5
+move--> 1526645527069 725 409
+userscript.html:51:5
+move--> 1526645527086 745 407
+userscript.html:51:5
+move--> 1526645527102 751 406
+userscript.html:51:5
+move--> 1526645527119 756 406
+userscript.html:51:5
+move--> 1526645527136 761 405
+userscript.html:51:5
+move--> 1526645527169 771 404
+userscript.html:51:5
+move--> 1526645527186 773 404
+userscript.html:51:5
+move--> 1526645527203 775 404
+userscript.html:51:5
+move--> 1526645527218 775 404
+userscript.html:51:5
+move--> 1526645527237 776 404
+userscript.html:51:5
+move--> 1526645527603 776 404
+userscript.html:51:5
+move--> 1526645527619 777 403
+userscript.html:51:5
+move--> 1526645527936 776 402
+userscript.html:51:5
+move--> 1526645527962 774 400
+userscript.html:51:5
+move--> 1526645527969 770 398
+userscript.html:51:5
+move--> 1526645527986 765 395
+userscript.html:51:5
+move--> 1526645528002 763 394
+userscript.html:51:5
+move--> 1526645528018 755 390
+userscript.html:51:5
+move--> 1526645528036 751 387
+userscript.html:51:5
+move--> 1526645528053 746 383
+userscript.html:51:5
+move--> 1526645528069 737 377
+userscript.html:51:5
+move--> 1526645528086 731 373
+userscript.html:51:5
+move--> 1526645528119 706 364
+userscript.html:51:5
+move--> 1526645528136 678 359
+userscript.html:51:5
+move--> 1526645528153 645 354
+userscript.html:51:5
+move--> 1526645528172 639 354
+userscript.html:51:5
+move--> 1526645528187 610 351
+userscript.html:51:5
+move--> 1526645528202 595 350
+userscript.html:51:5
+move--> 1526645528219 584 349
+userscript.html:51:5
+move--> 1526645528236 574 348
+userscript.html:51:5
+move--> 1526645528252 572 348
+userscript.html:51:5
+move--> 1526645528269 570 348
+userscript.html:51:5
+move--> 1526645528305 572 348
+userscript.html:51:5
+move--> 1526645528321 575 348
+userscript.html:51:5
+move--> 1526645528353 597 348
+userscript.html:51:5
+move--> 1526645528370 618 348
+userscript.html:51:5
+move--> 1526645528386 644 347
+userscript.html:51:5
+move--> 1526645528436 743 344
+userscript.html:51:5
+move--> 1526645528453 772 343
+userscript.html:51:5
+move--> 1526645528469 807 340
+userscript.html:51:5
+move--> 1526645528485 830 338
+userscript.html:51:5
+move--> 1526645528502 835 338
+userscript.html:51:5
+move--> 1526645528519 865 334
+userscript.html:51:5
+move--> 1526645528536 876 333
+userscript.html:51:5
+move--> 1526645528552 884 331
+userscript.html:51:5
+move--> 1526645528569 894 330
+userscript.html:51:5
+move--> 1526645528602 917 323
+userscript.html:51:5
+move--> 1526645528619 931 320
+userscript.html:51:5
+move--> 1526645528635 949 317
+userscript.html:51:5
+move--> 1526645528652 958 316
+userscript.html:51:5
+move--> 1526645528668 999 313
+userscript.html:51:5
+move--> 1526645528686 1021 313
+userscript.html:51:5
+move--> 1526645528702 1041 312
+userscript.html:51:5
+move--> 1526645528719 1065 311
+userscript.html:51:5
+move--> 1526645528736 1078 310
+userscript.html:51:5
+move--> 1526645528752 1109 309
+userscript.html:51:5
+move--> 1526645528769 1128 308
+userscript.html:51:5
+move--> 1526645528786 1143 308
+userscript.html:51:5
+move--> 1526645528802 1159 307
+userscript.html:51:5
+move--> 1526645528819 1169 307
+userscript.html:51:5
+move--> 1526645528852 1197 309
+userscript.html:51:5
+move--> 1526645528872 1202 310
+userscript.html:51:5
+move--> 1526645528886 1204 310
+userscript.html:51:5
+move--> 1526645528902 1205 310
+userscript.html:51:5
+move--> 1526645528919 1207 311
+userscript.html:51:5
+move--> 1526645528936 1208 311
+userscript.html:51:5
+move--> 1526645529186 1208 311
+userscript.html:51:5
+move--> 1526645529203 1208 311
+userscript.html:51:5
+click-> 1526645529276 3
+userscript.html:69:5
+move--> 1526645529426 1210 311
+userscript.html:51:5
+move--> 1526645529436 1215 311
+userscript.html:51:5
+move--> 1526645529652 1215 311
+userscript.html:51:5
+move--> 1526645529708 1215 311
+userscript.html:51:5
+move--> 1526645529803 1215 311
+userscript.html:51:5
+move--> 1526645529853 1216 311
+userscript.html:51:5
+move--> 1526645529952 1215 311
+userscript.html:51:5
+move--> 1526645529969 1214 311
+userscript.html:51:5
+move--> 1526645529986 1213 311
+userscript.html:51:5
+move--> 1526645530002 1213 311
+userscript.html:51:5
+move--> 1526645530035 1212 311
+userscript.html:51:5
+move--> 1526645530052 1211 311
+userscript.html:51:5
+move--> 1526645530070 1209 311
+userscript.html:51:5
+move--> 1526645530085 1207 311
+userscript.html:51:5
+move--> 1526645530103 1205 311
+userscript.html:51:5
+move--> 1526645530135 1193 313
+userscript.html:51:5
+move--> 1526645530152 1188 314
+userscript.html:51:5
+move--> 1526645530169 1184 314
+userscript.html:51:5
+move--> 1526645530186 1183 314
+userscript.html:51:5
+move--> 1526645530203 1175 316
+userscript.html:51:5
+move--> 1526645530219 1168 317
+userscript.html:51:5
+move--> 1526645530236 1160 317
+userscript.html:51:5
+move--> 1526645530252 1153 318
+userscript.html:51:5
+move--> 1526645530269 1140 320
+userscript.html:51:5
+move--> 1526645530286 1131 322
+userscript.html:51:5
+move--> 1526645530302 1121 323
+userscript.html:51:5
+move--> 1526645530319 1108 323
+userscript.html:51:5
+move--> 1526645530352 1075 325
+userscript.html:51:5
+move--> 1526645530369 1055 328
+userscript.html:51:5
+move--> 1526645530386 1037 331
+userscript.html:51:5
+move--> 1526645530402 1022 333
+userscript.html:51:5
+move--> 1526645530436 983 340
+userscript.html:51:5
+move--> 1526645530453 970 343
+userscript.html:51:5
+move--> 1526645530470 956 346
+userscript.html:51:5
+move--> 1526645530487 951 347
+userscript.html:51:5
+move--> 1526645530519 920 350
+userscript.html:51:5
+move--> 1526645530536 908 350
+userscript.html:51:5
+move--> 1526645530552 897 352
+userscript.html:51:5
+move--> 1526645530570 894 352
+userscript.html:51:5
+move--> 1526645530585 874 355
+userscript.html:51:5
+move--> 1526645530603 863 356
+userscript.html:51:5
+move--> 1526645530620 851 358
+userscript.html:51:5
+move--> 1526645530636 847 359
+userscript.html:51:5
+move--> 1526645531053 745 366
+userscript.html:51:5
+move--> 1526645531070 745 374
+userscript.html:51:5
+move--> 1526645531103 745 374
+userscript.html:51:5
+move--> 1526645531204 745 398
+userscript.html:51:5
+move--> 1526645531589 708 456
+userscript.html:51:5
+move--> 1526645531609 695 525
+userscript.html:51:5
+move--> 1526645531640 682 532
+userscript.html:51:5
+move--> 1526645531663 673 537
+userscript.html:51:5
+move--> 1526645531808 568 577
+userscript.html:51:5
+move--> 1526645531855 544 581
+userscript.html:51:5
+move--> 1526645531889 529 582
+userscript.html:51:5
+move--> 1526645531906 523 582
+userscript.html:51:5
+move--> 1526645531955 504 585
+userscript.html:51:5
+move--> 1526645531971 498 585
+userscript.html:51:5
+move--> 1526645531989 494 585
+userscript.html:51:5
+move--> 1526645532008 490 586
+userscript.html:51:5
+move--> 1526645532038 488 586
+userscript.html:51:5
+move--> 1526645532055 488 585
+userscript.html:51:5
+move--> 1526645532072 493 582
+userscript.html:51:5
+move--> 1526645532772 411 626
+userscript.html:51:5
+move--> 1526645532789 406 629
+userscript.html:51:5
+move--> 1526645532805 403 632
+userscript.html:51:5
+move--> 1526645532877 387 644
+userscript.html:51:5
+move--> 1526645533005 377 654
+userscript.html:51:5
+move--> 1526645533459 370 669
+userscript.html:51:5
+move--> 1526645533490 367 675
+userscript.html:51:5
+move--> 1526645533555 357 691
+userscript.html:51:5
+move--> 1526645533809 346 709
+userscript.html:51:5
+move--> 1526645540126 346 588
+userscript.html:51:5
+move--> 1526645540141 346 574
+userscript.html:51:5
+move--> 1526645540175 347 563
+userscript.html:51:5
+move--> 1526645540190 347 563
+userscript.html:51:5
+move--> 1526645540225 347 562
+userscript.html:51:5
+move--> 1526645540291 347 562
+userscript.html:51:5
+move--> 1526645540340 347 562
+userscript.html:51:5
+move--> 1526645540358 348 562
+userscript.html:51:5
+move--> 1526645540374 348 562
+userscript.html:51:5
+move--> 1526645540407 348 561
+userscript.html:51:5
+move--> 1526645540424 348 561
+userscript.html:51:5
+move--> 1526645540457 348 561
+userscript.html:51:5
+move--> 1526645540759 348 561
+userscript.html:51:5
+move--> 1526645540774 349 560
+userscript.html:51:5
+move--> 1526645540791 349 560
+userscript.html:51:5
+move--> 1526645540807 350 559
+userscript.html:51:5
+move--> 1526645540825 350 559
+userscript.html:51:5
+move--> 1526645540841 351 558
+userscript.html:51:5
+move--> 1526645540858 351 557
+userscript.html:51:5
+move--> 1526645540873 351 557
+userscript.html:51:5
+move--> 1526645540890 352 557
+userscript.html:51:5
+move--> 1526645540908 352 556
+userscript.html:51:5
+move--> 1526645540924 353 555
+userscript.html:51:5
+move--> 1526645540940 353 554
+userscript.html:51:5
+move--> 1526645540958 354 553
+userscript.html:51:5
+move--> 1526645540991 355 550
+userscript.html:51:5
+move--> 1526645541007 357 548
+userscript.html:51:5
+move--> 1526645541024 359 546
+userscript.html:51:5
+move--> 1526645541040 360 544
+userscript.html:51:5
+move--> 1526645541057 364 539
+userscript.html:51:5
+move--> 1526645541074 367 536
+userscript.html:51:5
+move--> 1526645541090 370 532
+userscript.html:51:5
+move--> 1526645541107 370 531
+userscript.html:51:5
+move--> 1526645541142 366 524
+userscript.html:51:5
+move--> 1526645541156 365 523
+userscript.html:51:5
+move--> 1526645541388 365 523
+userscript.html:51:5
+move--> 1526645541404 369 523
+userscript.html:51:5
+move--> 1526645541421 375 524
+userscript.html:51:5
+move--> 1526645541438 380 525
+userscript.html:51:5
+move--> 1526645541454 381 525
+userscript.html:51:5
+move--> 1526645541471 392 526
+userscript.html:51:5
+move--> 1526645541487 399 527
+userscript.html:51:5
+move--> 1526645541505 406 527
+userscript.html:51:5
+move--> 1526645541521 412 527
+userscript.html:51:5
+move--> 1526645541554 432 527
+userscript.html:51:5
+move--> 1526645541571 445 527
+userscript.html:51:5
+move--> 1526645541587 458 526
+userscript.html:51:5
+move--> 1526645541604 464 526
+userscript.html:51:5
+move--> 1526645541620 490 525
+userscript.html:51:5
+move--> 1526645541637 504 524
+userscript.html:51:5
+move--> 1526645541654 520 523
+userscript.html:51:5
+move--> 1526645541674 536 521
+userscript.html:51:5
+move--> 1526645541704 578 513
+userscript.html:51:5
+move--> 1526645541721 602 507
+userscript.html:51:5
+move--> 1526645541737 623 500
+userscript.html:51:5
+move--> 1526645541754 643 493
+userscript.html:51:5
+move--> 1526645541787 684 478
+userscript.html:51:5
+move--> 1526645541804 700 472
+userscript.html:51:5
+move--> 1526645541823 711 467
+userscript.html:51:5
+move--> 1526645541837 713 466
+userscript.html:51:5
+move--> 1526645541856 729 459
+userscript.html:51:5
+move--> 1526645541879 732 459
+userscript.html:51:5
+move--> 1526645541909 730 460
+userscript.html:51:5
+move--> 1526645541959 705 467
+userscript.html:51:5
+move--> 1526645541974 705 467
+userscript.html:51:5
+move--> 1526645542205 705 467
+userscript.html:51:5
+move--> 1526645542221 708 467
+userscript.html:51:5
+move--> 1526645542238 713 467
+userscript.html:51:5
+move--> 1526645542254 716 467
+userscript.html:51:5
+move--> 1526645542271 717 467
+userscript.html:51:5
+move--> 1526645542288 721 466
+userscript.html:51:5
+move--> 1526645542306 724 466
+userscript.html:51:5
+move--> 1526645542321 728 465
+userscript.html:51:5
+move--> 1526645542338 732 465
+userscript.html:51:5
+move--> 1526645542371 754 463
+userscript.html:51:5
+move--> 1526645542387 770 462
+userscript.html:51:5
+move--> 1526645542404 791 461
+userscript.html:51:5
+move--> 1526645542421 792 461
+userscript.html:51:5
+move--> 1526645542437 841 460
+userscript.html:51:5
+move--> 1526645542454 867 459
+userscript.html:51:5
+move--> 1526645542471 890 458
+userscript.html:51:5
+move--> 1526645542487 906 457
+userscript.html:51:5
+move--> 1526645542521 940 458
+userscript.html:51:5
+move--> 1526645542537 953 459
+userscript.html:51:5
+move--> 1526645542554 966 459
+userscript.html:51:5
+move--> 1526645542572 968 459
+userscript.html:51:5
+move--> 1526645542587 993 459
+userscript.html:51:5
+move--> 1526645542604 1005 460
+userscript.html:51:5
+move--> 1526645542621 1015 462
+userscript.html:51:5
+move--> 1526645542638 1025 463
+userscript.html:51:5
+move--> 1526645542671 1043 465
+userscript.html:51:5
+move--> 1526645542687 1051 466
+userscript.html:51:5
+move--> 1526645542704 1059 467
+userscript.html:51:5
+move--> 1526645542721 1064 467
+userscript.html:51:5
+move--> 1526645542739 1075 468
+userscript.html:51:5
+move--> 1526645542754 1086 469
+userscript.html:51:5
+move--> 1526645542771 1096 469
+userscript.html:51:5
+move--> 1526645542791 1106 468
+userscript.html:51:5
+move--> 1526645542872 1139 474
+userscript.html:51:5
+move--> 1526645542888 1140 474
+userscript.html:51:5
+move--> 1526645542971 1139 474
+userscript.html:51:5
+move--> 1526645542987 1136 474
+userscript.html:51:5
+move--> 1526645543004 1131 473
+userscript.html:51:5
+move--> 1526645543021 1124 473
+userscript.html:51:5
+move--> 1526645543037 1124 473
+userscript.html:51:5
+move--> 1526645543054 1113 474
+userscript.html:51:5
+move--> 1526645543071 1109 474
+userscript.html:51:5
+move--> 1526645543087 1107 474
+userscript.html:51:5
+move--> 1526645543105 1107 474
+userscript.html:51:5
+move--> 1526645543254 1107 474
+userscript.html:51:5
+move--> 1526645543272 1107 475
+userscript.html:51:5
+move--> 1526645543288 1107 475
+userscript.html:51:5
+move--> 1526645543305 1107 476
+userscript.html:51:5
+move--> 1526645543339 1107 477
+userscript.html:51:5
+move--> 1526645543354 1107 478
+userscript.html:51:5
+move--> 1526645543372 1108 478
+userscript.html:51:5
+move--> 1526645543388 1108 478
+userscript.html:51:5
+move--> 1526645543421 1109 481
+userscript.html:51:5
+move--> 1526645543439 1110 482
+userscript.html:51:5
+move--> 1526645543453 1110 483
+userscript.html:51:5
+move--> 1526645543472 1111 484
+userscript.html:51:5
+move--> 1526645543504 1112 487
+userscript.html:51:5
+move--> 1526645543521 1113 489
+userscript.html:51:5
+move--> 1526645543537 1115 491
+userscript.html:51:5
+move--> 1526645543554 1115 492
+userscript.html:51:5
+move--> 1526645543572 1116 493
+userscript.html:51:5
+move--> 1526645543588 1116 493
+userscript.html:51:5
+move--> 1526645543654 1117 495
+userscript.html:51:5
+move--> 1526645543671 1117 495
+userscript.html:51:5
+click-> 1526645543947 4
+userscript.html:69:5
+move--> 1526645544471 1117 495
+userscript.html:51:5
+move--> 1526645544487 1115 494
+userscript.html:51:5
+move--> 1526645544504 1111 492
+userscript.html:51:5
+move--> 1526645544521 1106 491
+userscript.html:51:5
+move--> 1526645544538 1105 491
+userscript.html:51:5
+move--> 1526645544554 1096 488
+userscript.html:51:5
+move--> 1526645544571 1090 487
+userscript.html:51:5
+move--> 1526645544592 1085 485
+userscript.html:51:5
+move--> 1526645544604 1079 484
+userscript.html:51:5
+move--> 1526645544638 1065 480
+userscript.html:51:5
+move--> 1526645544655 1060 480
+userscript.html:51:5
+move--> 1526645544670 1055 479
+userscript.html:51:5
+move--> 1526645544687 1050 478
+userscript.html:51:5
+move--> 1526645544723 1033 474
+userscript.html:51:5
+move--> 1526645544737 1022 471
+userscript.html:51:5
+move--> 1526645544755 1008 468
+userscript.html:51:5
+move--> 1526645544772 997 465
+userscript.html:51:5
+move--> 1526645544804 974 461
+userscript.html:51:5
+move--> 1526645544821 968 460
+userscript.html:51:5
+move--> 1526645544838 964 459
+userscript.html:51:5
+move--> 1526645544854 963 459
+userscript.html:51:5
+move--> 1526645545038 929 447
+userscript.html:51:5
+move--> 1526645545272 929 447
+userscript.html:51:5
+move--> 1526645545388 929 447
+userscript.html:51:5
+move--> 1526645550190 931 600
+userscript.html:51:5
+move--> 1526645550208 935 602
+userscript.html:51:5
+move--> 1526645550226 940 604
+userscript.html:51:5
+move--> 1526645550243 945 607
+userscript.html:51:5
+move--> 1526645550258 947 607
+userscript.html:51:5
+move--> 1526645550290 964 616
+userscript.html:51:5
+move--> 1526645550314 970 620
+userscript.html:51:5
+move--> 1526645550324 976 623
+userscript.html:51:5
+move--> 1526645550340 978 624
+userscript.html:51:5
+move--> 1526645550374 1001 633
+userscript.html:51:5
+move--> 1526645550395 1011 637
+userscript.html:51:5
+move--> 1526645550408 1022 641
+userscript.html:51:5
+move--> 1526645550424 1029 644
+userscript.html:51:5
+move--> 1526645550459 1057 656
+userscript.html:51:5
+move--> 1526645550474 1066 660
+userscript.html:51:5
+move--> 1526645550493 1073 664
+userscript.html:51:5
+move--> 1526645550507 1076 666
+userscript.html:51:5
+move--> 1526645550540 1082 672
+userscript.html:51:5
+move--> 1526645550557 1084 674
+userscript.html:51:5
+move--> 1526645550573 1087 677
+userscript.html:51:5
+move--> 1526645550591 1088 679
+userscript.html:51:5
+move--> 1526645550627 1097 686
+userscript.html:51:5
+move--> 1526645550640 1101 689
+userscript.html:51:5
+move--> 1526645550656 1106 693
+userscript.html:51:5
+move--> 1526645550674 1108 695
+userscript.html:51:5
+move--> 1526645550694 1115 703
+userscript.html:51:5
+move--> 1526645550712 1119 707
+userscript.html:51:5
+move--> 1526645550724 1122 711
+userscript.html:51:5
+move--> 1526645550740 1124 714
+userscript.html:51:5
+move--> 1526645550774 1132 721
+userscript.html:51:5
+move--> 1526645550794 1136 725
+userscript.html:51:5
+move--> 1526645550807 1140 728
+userscript.html:51:5
+move--> 1526645550824 1144 730
+userscript.html:51:5
+move--> 1526645550857 1151 734
+userscript.html:51:5
+move--> 1526645550874 1155 736
+userscript.html:51:5
+move--> 1526645550890 1157 738
+userscript.html:51:5
+move--> 1526645550907 1159 738
+userscript.html:51:5
+move--> 1526645550941 1170 741
+userscript.html:51:5
+move--> 1526645550957 1175 741
+userscript.html:51:5
+move--> 1526645550973 1175 741
+userscript.html:51:5
+move--> 1526645551190 1173 741
+userscript.html:51:5
+move--> 1526645551209 1166 738
+userscript.html:51:5
+move--> 1526645551223 1161 737
+userscript.html:51:5
+move--> 1526645551240 1161 736
+userscript.html:51:5
+move--> 1526645551274 1161 737
+userscript.html:51:5
+move--> 1526645551412 1162 737
+userscript.html:51:5
+move--> 1526645551429 1163 738
+userscript.html:51:5
+move--> 1526645551445 1164 739
+userscript.html:51:5
+move--> 1526645551463 1166 740
+userscript.html:51:5
+move--> 1526645551479 1167 740
+userscript.html:51:5
+move--> 1526645551512 1171 743
+userscript.html:51:5
+move--> 1526645551529 1172 744
+userscript.html:51:5
+move--> 1526645551545 1173 745
+userscript.html:51:5
+move--> 1526645551563 1174 746
+userscript.html:51:5
+move--> 1526645551595 1177 748
+userscript.html:51:5
+move--> 1526645551612 1179 749
+userscript.html:51:5
+move--> 1526645551628 1179 750
+userscript.html:51:5
+move--> 1526645551645 1179 750
+userscript.html:51:5
+move--> 1526645551662 1181 751
+userscript.html:51:5
+move--> 1526645551679 1182 753
+userscript.html:51:5
+move--> 1526645551697 1184 755
+userscript.html:51:5
+move--> 1526645551714 1185 756
+userscript.html:51:5
+move--> 1526645551747 1186 757
+userscript.html:51:5
+move--> 1526645551761 1187 757
+userscript.html:51:5
+move--> 1526645551780 1187 758
+userscript.html:51:5
+move--> 1526645551796 1188 759
+userscript.html:51:5
+move--> 1526645551829 1189 760
+userscript.html:51:5
+move--> 1526645551846 1189 760
+userscript.html:51:5
+move--> 1526645551862 1190 761
+userscript.html:51:5
+move--> 1526645551880 1190 761
+userscript.html:51:5
+move--> 1526645551895 1190 762
+userscript.html:51:5
+click-> 1526645553195 5
+userscript.html:69:5
+load-->  1526645556359 https://help.twitter.com/en?lang=browser
+userscript.html:76:7
+load-->  1526645556361 https://help.twitter.com/en?lang=browser
+userscript.html:76:7
+move--> 1526645556372 889 571
+userscript.html:51:5
+move--> 1526645556657 720 567
+userscript.html:51:5
+move--> 1526645556679 716 565
+userscript.html:51:5
+move--> 1526645556740 714 565
+userscript.html:51:5
+move--> 1526645556864 714 564
+userscript.html:51:5
+move--> 1526645556885 714 564
+userscript.html:51:5
+load-->  1526645557078 https://help.twitter.com/
+userscript.html:76:7
+move--> 1526645557624 718 555
+userscript.html:51:5
+move--> 1526645557650 719 553
+userscript.html:51:5
+move--> 1526645557686 727 544
+userscript.html:51:5
+move--> 1526645557706 730 540
+userscript.html:51:5
+move--> 1526645557739 736 528
+userscript.html:51:5
+move--> 1526645557756 742 515
+userscript.html:51:5
+move--> 1526645557770 750 500
+userscript.html:51:5
+move--> 1526645557788 753 493
+userscript.html:51:5
+move--> 1526645557906 765 456
+userscript.html:51:5
+move--> 1526645557922 768 450
+userscript.html:51:5
+move--> 1526645557939 769 445
+userscript.html:51:5
+move--> 1526645557954 772 439
+userscript.html:51:5
+move--> 1526645557972 774 433
+userscript.html:51:5
+move--> 1526645558004 775 420
+userscript.html:51:5
+move--> 1526645558020 776 413
+userscript.html:51:5
+move--> 1526645558039 779 404
+userscript.html:51:5
+move--> 1526645558057 783 394
+userscript.html:51:5
+move--> 1526645558104 797 368
+userscript.html:51:5
+move--> 1526645558121 800 363
+userscript.html:51:5
+move--> 1526645558138 801 360
+userscript.html:51:5
+move--> 1526645558154 802 357
+userscript.html:51:5
+move--> 1526645558188 804 349
+userscript.html:51:5
+move--> 1526645558205 804 348
+userscript.html:51:5
+move--> 1526645558220 805 346
+userscript.html:51:5
+move--> 1526645558237 805 343
+userscript.html:51:5
+move--> 1526645558271 805 335
+userscript.html:51:5
+move--> 1526645558287 805 332
+userscript.html:51:5
+move--> 1526645558305 805 330
+userscript.html:51:5
+move--> 1526645558320 804 327
+userscript.html:51:5
+move--> 1526645558337 804 326
+userscript.html:51:5
+move--> 1526645558371 802 315
+userscript.html:51:5
+move--> 1526645558388 802 310
+userscript.html:51:5
+move--> 1526645558404 801 305
+userscript.html:51:5
+move--> 1526645558420 801 304
+userscript.html:51:5
+move--> 1526645558437 800 296
+userscript.html:51:5
+move--> 1526645558454 800 293
+userscript.html:51:5
+move--> 1526645558471 800 290
+userscript.html:51:5
+move--> 1526645558488 799 288
+userscript.html:51:5
+move--> 1526645558504 799 286
+userscript.html:51:5
+move--> 1526645558539 799 282
+userscript.html:51:5
+move--> 1526645558555 799 281
+userscript.html:51:5
+move--> 1526645558572 799 280
+userscript.html:51:5
+move--> 1526645558591 799 278
+userscript.html:51:5
+move--> 1526645558640 798 274
+userscript.html:51:5
+move--> 1526645558656 798 273
+userscript.html:51:5
+click-> 1526645558769 6
+userscript.html:69:5
+key---> 1526645561930 68
+userscript.html:57:5
+key---> 1526645562092 69
+userscript.html:57:5
+key---> 1526645562655 76
+userscript.html:57:5
+key---> 1526645563645 69
+userscript.html:57:5
+key---> 1526645563880 84
+userscript.html:57:5
+key---> 1526645565285 13
+userscript.html:57:5
+click-> 1526645565298 7
+userscript.html:69:5
+load-->  1526645566635 https://help.twitter.com/en/search?q=delet
+userscript.html:76:7
+load-->  1526645566638 https://help.twitter.com/en/search?q=delet
+userscript.html:76:7
+move--> 1526645567134 713 305
+userscript.html:51:5
+move--> 1526645567192 684 318
+userscript.html:51:5
+move--> 1526645567205 657 332
+userscript.html:51:5
+move--> 1526645567241 635 341
+userscript.html:51:5
+move--> 1526645567274 625 344
+userscript.html:51:5
+move--> 1526645567340 558 357
+userscript.html:51:5
+move--> 1526645567374 529 357
+userscript.html:51:5
+move--> 1526645567415 511 357
+userscript.html:51:5
+move--> 1526645567501 444 351
+userscript.html:51:5
+move--> 1526645567511 433 350
+userscript.html:51:5
+move--> 1526645567528 423 348
+userscript.html:51:5
+move--> 1526645567543 412 346
+userscript.html:51:5
+move--> 1526645567630 370 330
+userscript.html:51:5
+move--> 1526645567645 364 325
+userscript.html:51:5
+move--> 1526645567661 362 321
+userscript.html:51:5
+move--> 1526645567680 361 319
+userscript.html:51:5
+move--> 1526645567696 360 316
+userscript.html:51:5
+move--> 1526645567711 359 314
+userscript.html:51:5
+move--> 1526645567761 351 307
+userscript.html:51:5
+move--> 1526645567777 350 307
+userscript.html:51:5
+move--> 1526645567795 344 303
+userscript.html:51:5
+move--> 1526645567821 342 302
+userscript.html:51:5
+move--> 1526645567831 340 301
+userscript.html:51:5
+move--> 1526645567863 333 298
+userscript.html:51:5
+move--> 1526645567884 329 296
+userscript.html:51:5
+move--> 1526645567962 319 291
+userscript.html:51:5
+move--> 1526645568271 319 291
+userscript.html:51:5
+move--> 1526645568278 318 290
+userscript.html:51:5
+move--> 1526645568294 318 290
+userscript.html:51:5
+move--> 1526645568311 317 289
+userscript.html:51:5
+move--> 1526645568327 317 289
+userscript.html:51:5
+move--> 1526645568383 314 286
+userscript.html:51:5
+move--> 1526645568394 314 286
+userscript.html:51:5
+move--> 1526645568412 312 285
+userscript.html:51:5
+move--> 1526645568428 311 284
+userscript.html:51:5
+move--> 1526645568461 308 282
+userscript.html:51:5
+move--> 1526645568478 306 280
+userscript.html:51:5
+move--> 1526645568494 304 279
+userscript.html:51:5
+move--> 1526645568512 303 278
+userscript.html:51:5
+move--> 1526645568528 302 277
+userscript.html:51:5
+move--> 1526645568561 297 273
+userscript.html:51:5
+move--> 1526645568577 295 271
+userscript.html:51:5
+move--> 1526645568596 292 269
+userscript.html:51:5
+move--> 1526645568611 292 269
+userscript.html:51:5
+move--> 1526645568643 284 263
+userscript.html:51:5
+move--> 1526645568660 281 262
+userscript.html:51:5
+move--> 1526645568679 279 260
+userscript.html:51:5
+move--> 1526645568710 274 257
+userscript.html:51:5
+move--> 1526645568727 271 255
+userscript.html:51:5
+move--> 1526645568745 268 253
+userscript.html:51:5
+move--> 1526645568760 264 252
+userscript.html:51:5
+move--> 1526645568778 262 251
+userscript.html:51:5
+move--> 1526645568819 257 248
+userscript.html:51:5
+move--> 1526645568828 256 247
+userscript.html:51:5
+click-> 1526645569091 8
+userscript.html:69:5
+move--> 1526645569145 256 247
+userscript.html:51:5
+move--> 1526645569444 293 256
+userscript.html:51:5
+move--> 1526645569461 297 257
+userscript.html:51:5
+move--> 1526645569510 297 257
+userscript.html:51:5
+move--> 1526645569561 298 257
+userscript.html:51:5
+move--> 1526645570094 298 290
+userscript.html:51:5
+move--> 1526645570110 302 291
+userscript.html:51:5
+move--> 1526645570128 309 294
+userscript.html:51:5
+move--> 1526645570145 319 297
+userscript.html:51:5
+move--> 1526645570163 322 298
+userscript.html:51:5
+move--> 1526645570213 377 314
+userscript.html:51:5
+move--> 1526645570228 393 318
+userscript.html:51:5
+move--> 1526645570245 411 322
+userscript.html:51:5
+move--> 1526645570261 429 327
+userscript.html:51:5
+move--> 1526645570277 441 330
+userscript.html:51:5
+move--> 1526645570294 448 331
+userscript.html:51:5
+move--> 1526645570410 501 346
+userscript.html:51:5
+move--> 1526645570427 508 349
+userscript.html:51:5
+move--> 1526645570444 525 358
+userscript.html:51:5
+move--> 1526645570461 533 362
+userscript.html:51:5
+move--> 1526645570477 538 365
+userscript.html:51:5
+move--> 1526645570495 540 366
+userscript.html:51:5
+move--> 1526645570544 562 379
+userscript.html:51:5
+move--> 1526645570561 569 383
+userscript.html:51:5
+move--> 1526645570578 577 387
+userscript.html:51:5
+move--> 1526645570594 585 391
+userscript.html:51:5
+move--> 1526645570611 585 391
+userscript.html:51:5
+move--> 1526645570644 597 398
+userscript.html:51:5
+move--> 1526645570660 603 402
+userscript.html:51:5
+move--> 1526645570678 607 404
+userscript.html:51:5
+move--> 1526645570694 610 405
+userscript.html:51:5
+move--> 1526645570727 619 410
+userscript.html:51:5
+move--> 1526645570761 624 414
+userscript.html:51:5
+move--> 1526645570794 631 418
+userscript.html:51:5
+move--> 1526645570828 634 419
+userscript.html:51:5
+move--> 1526645570844 635 420
+userscript.html:51:5
+move--> 1526645570861 637 422
+userscript.html:51:5
+move--> 1526645571328 647 440
+userscript.html:51:5
+click-> 1526645571446 9
+userscript.html:69:5
+move--> 1526645571630 642 439
+userscript.html:51:5
+move--> 1526645571648 641 439
+userscript.html:51:5
+move--> 1526645571663 640 438
+userscript.html:51:5
+move--> 1526645571681 640 438
+userscript.html:51:5
+move--> 1526645571698 640 438
+userscript.html:51:5
+move--> 1526645571730 639 438
+userscript.html:51:5
+load-->  1526645573684 https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account
+userscript.html:76:7
+load-->  1526645573685 https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account
+userscript.html:76:7
+move--> 1526645573792 641 399
+userscript.html:51:5
+move--> 1526645573888 644 397
+userscript.html:51:5
+load-->  1526645575536 https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lfl0DoUAAAAAGT3c1jIqV8RTrjGaRXFcyNI85K_&co=aHR0cHM6Ly9oZWxwLnR3aXR0ZXIuY29tOjQ0Mw..&hl=en&v=v1526338122299&size=invisible&badge=inline&cb=akjyf2b7p4zv#8u9asrnvpamf
+userscript.html:76:7
+load-->  1526645575537 https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lfl0DoUAAAAAGT3c1jIqV8RTrjGaRXFcyNI85K_&co=aHR0cHM6Ly9oZWxwLnR3aXR0ZXIuY29tOjQ0Mw..&hl=en&v=v1526338122299&size=invisible&badge=inline&cb=akjyf2b7p4zv#8u9asrnvpamf
+userscript.html:76:7
+move--> 1526645575977 645 559
+userscript.html:51:5
+move--> 1526645575984 647 561
+userscript.html:51:5
+move--> 1526645576003 652 570
+userscript.html:51:5
+move--> 1526645576014 672 589
+userscript.html:51:5
+move--> 1526645576255 682 594
+userscript.html:51:5
+move--> 1526645576265 733 606
+userscript.html:51:5
+move--> 1526645576282 736 600
+userscript.html:51:5
+move--> 1526645576490 726 597
+userscript.html:51:5
+move--> 1526645576534 726 597
+userscript.html:51:5
+move--> 1526645576615 727 597
+userscript.html:51:5
+move--> 1526645576631 727 597
+userscript.html:51:5
+move--> 1526645576670 731 599
+userscript.html:51:5
+move--> 1526645576723 733 600
+userscript.html:51:5
+move--> 1526645576732 739 603
+userscript.html:51:5
+move--> 1526645576749 739 603
+userscript.html:51:5
+move--> 1526645576797 750 607
+userscript.html:51:5
+move--> 1526645576815 752 607
+userscript.html:51:5
+move--> 1526645576865 757 610
+userscript.html:51:5
+move--> 1526645576916 766 613
+userscript.html:51:5
+move--> 1526645576931 769 614
+userscript.html:51:5
+move--> 1526645581351 857 619
+userscript.html:51:5
+load-->  1526645581691 https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1526338122299&k=6Lfl0DoUAAAAAGT3c1jIqV8RTrjGaRXFcyNI85K_&cb=3aa8fx7t8j4s#8u9asrnvpamf
+userscript.html:76:7
+load-->  1526645581692 https://www.google.com/recaptcha/api2/bframe?hl=en&v=v1526338122299&k=6Lfl0DoUAAAAAGT3c1jIqV8RTrjGaRXFcyNI85K_&cb=3aa8fx7t8j4s#8u9asrnvpamf
+userscript.html:76:7
+move--> 1526645583633 858 618
+userscript.html:51:5
+move--> 1526645583648 860 619
+userscript.html:51:5
+move--> 1526645583664 864 621
+userscript.html:51:5
+move--> 1526645583682 868 622
+userscript.html:51:5
+move--> 1526645583698 869 623
+userscript.html:51:5
+move--> 1526645583716 871 624
+userscript.html:51:5
+move--> 1526645591186 872 624
+userscript.html:51:5
+move--> 1526645591203 873 623
+userscript.html:51:5
+move--> 1526645591218 874 623
+userscript.html:51:5
+move--> 1526645591235 874 623
+userscript.html:51:5
+move--> 1526645591284 874 623
+userscript.html:51:5
+move--> 1526645591301 874 623
+userscript.html:51:5
+move--> 1526645591335 874 623
+userscript.html:51:5
+move--> 1526645591351 875 623
+userscript.html:51:5
+move--> 1526645591385 875 623
+userscript.html:51:5
+move--> 1526645591734 876 622
+userscript.html:51:5
+move--> 1526645591751 877 622
+userscript.html:51:5
+move--> 1526645591768 877 622
+userscript.html:51:5
+move--> 1526645591785 877 621
+userscript.html:51:5
+move--> 1526645591852 877 621
+userscript.html:51:5
+move--> 1526645591868 878 621
+userscript.html:51:5
+click-> 1526645593678 10
+userscript.html:69:5
+load-->  1526645594354 https://twitter.com/settings/account
+userscript.html:76:7
+load-->  1526645594356 https://twitter.com/settings/account
+userscript.html:76:7
+load-->  1526645595720 https://twitter.com/settings/account
+userscript.html:76:7
+load-->  1526645595722 https://twitter.com/settings/account
+userscript.html:76:7
+move--> 1526645595724 777 442
+userscript.html:51:5
+move--> 1526645595738 766 440
+userscript.html:51:5
+move--> 1526645595755 763 439
+userscript.html:51:5
+move--> 1526645595772 761 438
+userscript.html:51:5
+move--> 1526645595881 758 438
+userscript.html:51:5
+move--> 1526645595921 758 438
+userscript.html:51:5
+move--> 1526645596558 762 439
+userscript.html:51:5
+move--> 1526645596573 774 441
+userscript.html:51:5
+move--> 1526645596639 788 443
+userscript.html:51:5
+move--> 1526645596672 805 446
+userscript.html:51:5
+move--> 1526645596690 815 447
+userscript.html:51:5
+move--> 1526645596706 819 448
+userscript.html:51:5
+move--> 1526645596762 837 447
+userscript.html:51:5
+move--> 1526645597390 867 444
+userscript.html:51:5
+move--> 1526645597423 910 438
+userscript.html:51:5
+move--> 1526645601403 912 437
+userscript.html:51:5
+move--> 1526645601423 912 533
+userscript.html:51:5
+move--> 1526645601434 912 533
+userscript.html:51:5
+move--> 1526645605633 906 978
+userscript.html:51:5
+move--> 1526645605648 898 988
+userscript.html:51:5
+move--> 1526645605664 889 999
+userscript.html:51:5
+move--> 1526645605680 879 1010
+userscript.html:51:5
+move--> 1526645605697 872 1017
+userscript.html:51:5
+move--> 1526645605731 848 1040
+userscript.html:51:5
+move--> 1526645605747 840 1046
+userscript.html:51:5
+move--> 1526645605764 831 1053
+userscript.html:51:5
+move--> 1526645605781 826 1057
+userscript.html:51:5
+move--> 1526645605814 808 1070
+userscript.html:51:5
+move--> 1526645605831 803 1074
+userscript.html:51:5
+move--> 1526645605847 799 1077
+userscript.html:51:5
+move--> 1526645605864 798 1078
+userscript.html:51:5
+move--> 1526645605898 785 1088
+userscript.html:51:5
+move--> 1526645605914 779 1093
+userscript.html:51:5
+move--> 1526645605931 773 1098
+userscript.html:51:5
+move--> 1526645605947 770 1101
+userscript.html:51:5
+move--> 1526645605981 759 1110
+userscript.html:51:5
+move--> 1526645605997 755 1115
+userscript.html:51:5
+move--> 1526645606014 750 1119
+userscript.html:51:5
+move--> 1526645606031 747 1122
+userscript.html:51:5
+move--> 1526645606064 738 1131
+userscript.html:51:5
+move--> 1526645606080 735 1134
+userscript.html:51:5
+move--> 1526645606097 732 1138
+userscript.html:51:5
+move--> 1526645606115 731 1141
+userscript.html:51:5
+move--> 1526645606147 725 1150
+userscript.html:51:5
+move--> 1526645606164 723 1152
+userscript.html:51:5
+move--> 1526645606180 721 1156
+userscript.html:51:5
+move--> 1526645606197 719 1159
+userscript.html:51:5
+move--> 1526645606230 713 1167
+userscript.html:51:5
+move--> 1526645606247 711 1171
+userscript.html:51:5
+move--> 1526645606266 708 1174
+userscript.html:51:5
+move--> 1526645606280 706 1176
+userscript.html:51:5
+move--> 1526645606314 701 1185
+userscript.html:51:5
+move--> 1526645606331 699 1188
+userscript.html:51:5
+move--> 1526645606349 696 1192
+userscript.html:51:5
+move--> 1526645606366 694 1194
+userscript.html:51:5
+move--> 1526645606402 691 1199
+userscript.html:51:5
+move--> 1526645606416 690 1200
+userscript.html:51:5
+move--> 1526645606433 689 1201
+userscript.html:51:5
+move--> 1526645606452 688 1202
+userscript.html:51:5
+move--> 1526645606485 685 1206
+userscript.html:51:5
+move--> 1526645606500 683 1209
+userscript.html:51:5
+move--> 1526645606517 682 1213
+userscript.html:51:5
+move--> 1526645606537 681 1216
+userscript.html:51:5
+move--> 1526645606570 679 1220
+userscript.html:51:5
+move--> 1526645606585 679 1220
+userscript.html:51:5
+move--> 1526645606601 679 1220
+userscript.html:51:5
+move--> 1526645606667 678 1221
+userscript.html:51:5
+move--> 1526645606684 677 1223
+userscript.html:51:5
+move--> 1526645606701 677 1226
+userscript.html:51:5
+move--> 1526645606718 676 1228
+userscript.html:51:5
+move--> 1526645606734 676 1228
+userscript.html:51:5
+move--> 1526645606751 676 1229
+userscript.html:51:5
+move--> 1526645606885 676 1229
+userscript.html:51:5
+move--> 1526645606901 675 1229
+userscript.html:51:5
+move--> 1526645606917 675 1229
+userscript.html:51:5
+click-> 1526645606999 11
+userscript.html:69:5
+move--> 1526645607025 675 1229
+userscript.html:51:5
+move--> 1526645607350 675 1230
+userscript.html:51:5
+move--> 1526645607368 675 1230
+userscript.html:51:5
+load-->  1526645608627 https://twitter.com/settings/accounts/confirm_deactivation
+userscript.html:76:7
+move--> 1526645610885 704 625
+userscript.html:51:5
+move--> 1526645610934 696 614
+userscript.html:51:5
+move--> 1526645610984 690 606
+userscript.html:51:5
+move--> 1526645611017 687 601
+userscript.html:51:5
+move--> 1526645615062 647 441
+userscript.html:51:5
+click-> 1526645618804 12
+userscript.html:69:5
+key---> 1526645627761 16
+userscript.html:57:5
+key---> 1526645628207 80
+userscript.html:57:5
+key---> 1526645629085 190
+userscript.html:57:5
+key---> 1526645631026 79
+userscript.html:57:5
+key---> 1526645631306 73
+userscript.html:57:5
+key---> 1526645632738 85
+userscript.html:57:5
+key---> 1526645633030 90
+userscript.html:57:5
+key---> 1526645634527 48
+userscript.html:57:5
+key---> 1526645634775 57
+userscript.html:57:5
+key---> 1526645635667 56
+userscript.html:57:5
+key---> 1526645636150 55
+userscript.html:57:5
+move--> 1526645637303 647 440
+userscript.html:51:5
+move--> 1526645637324 655 442
+userscript.html:51:5
+move--> 1526645637336 669 444
+userscript.html:51:5
+move--> 1526645637353 680 445
+userscript.html:51:5
+move--> 1526645637385 721 446
+userscript.html:51:5
+move--> 1526645637404 735 447
+userscript.html:51:5
+move--> 1526645637420 759 448
+userscript.html:51:5
+move--> 1526645637436 772 448
+userscript.html:51:5
+move--> 1526645637468 799 448
+userscript.html:51:5
+move--> 1526645637485 809 447
+userscript.html:51:5
+move--> 1526645637501 820 444
+userscript.html:51:5
+move--> 1526645637519 824 443
+userscript.html:51:5
+move--> 1526645637552 831 443
+userscript.html:51:5
+move--> 1526645637570 832 443
+userscript.html:51:5
+move--> 1526645637585 833 443
+userscript.html:51:5
+move--> 1526645637635 834 446
+userscript.html:51:5
+move--> 1526645637651 834 448
+userscript.html:51:5
+move--> 1526645637668 836 450
+userscript.html:51:5
+move--> 1526645637687 837 452
+userscript.html:51:5
+move--> 1526645637703 838 453
+userscript.html:51:5
+move--> 1526645637736 841 456
+userscript.html:51:5
+move--> 1526645637753 841 456
+userscript.html:51:5
+move--> 1526645637769 842 457
+userscript.html:51:5
+move--> 1526645637785 842 457
+userscript.html:51:5
+move--> 1526645637803 843 458
+userscript.html:51:5
+move--> 1526645637819 843 459
+userscript.html:51:5
+move--> 1526645637836 843 460
+userscript.html:51:5
+move--> 1526645637853 843 461
+userscript.html:51:5
+move--> 1526645637870 843 461
+userscript.html:51:5
+move--> 1526645637903 843 462
+userscript.html:51:5
+click-> 1526645639384 13
+userscript.html:69:5
+load-->  1526645641188 https://twitter.com/account/deactivated
+userscript.html:76:7
+load-->  1526645641189 https://twitter.com/account/deactivated
+userscript.html:76:7
+move--> 1526645642741 844 462
+userscript.html:51:5
+move--> 1526645642757 848 460
+userscript.html:51:5
+move--> 1526645642774 855 460
+userscript.html:51:5
+move--> 1526645642791 866 460
+userscript.html:51:5
+move--> 1526645642807 873 462
+userscript.html:51:5
+move--> 1526645642857 1010 493
+userscript.html:51:5
+move--> 1526645642873 1070 512
+userscript.html:51:5
+move--> 1526645642889 1102 528
+userscript.html:51:5
+move--> 1526645642906 1109 538
+userscript.html:51:5
+move--> 1526645642957 1105 552
+userscript.html:51:5
+move--> 1526645642973 1105 553
+userscript.html:51:5
+move--> 1526645642990 1109 554
+userscript.html:51:5
+move--> 1526645643007 1111 554
+userscript.html:51:5
+move--> 1526645643040 1117 551
+userscript.html:51:5
+move--> 1526645643058 1118 549
+userscript.html:51:5
+move--> 1526645643073 1122 548
+userscript.html:51:5
+move--> 1526645643090 1136 540
+userscript.html:51:5
+move--> 1526645643106 1138 539
+userscript.html:51:5
+move--> 1526645643139 1151 527
+userscript.html:51:5
+move--> 1526645643156 1134 528
+userscript.html:51:5
+move--> 1526645643174 1094 533
+userscript.html:51:5
+move--> 1526645643190 1091 534
+userscript.html:51:5
+move--> 1526645643223 901 581
+userscript.html:51:5
+move--> 1526645643239 850 593
+userscript.html:51:5
+move--> 1526645643256 810 603
+userscript.html:51:5
+move--> 1526645643273 799 606
+userscript.html:51:5
+move--> 1526645643307 735 623
+userscript.html:51:5
+move--> 1526645643324 718 627
+userscript.html:51:5
+move--> 1526645643341 707 629
+userscript.html:51:5
+move--> 1526645643357 704 629
+userscript.html:51:5
+move--> 1526645643390 698 642
+userscript.html:51:5
+move--> 1526645643406 700 655
+userscript.html:51:5
+move--> 1526645643423 702 668
+userscript.html:51:5
+move--> 1526645643439 701 675
+userscript.html:51:5
+move--> 1526645643473 689 701
+userscript.html:51:5
+move--> 1526645643489 685 713
+userscript.html:51:5
+move--> 1526645643507 682 724
+userscript.html:51:5
+move--> 1526645643523 679 729
+userscript.html:51:5
+move--> 1526645643556 667 749
+userscript.html:51:5
+move--> 1526645643572 664 757
+userscript.html:51:5
