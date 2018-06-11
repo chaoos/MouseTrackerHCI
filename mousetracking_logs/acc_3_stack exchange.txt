@@ -1,0 +1,514 @@
+move--> 1526908399026 1148 535
+userscript.html:51:5
+move--> 1526908399042 1150 524
+userscript.html:51:5
+move--> 1526908399059 1151 519
+userscript.html:51:5
+move--> 1526908399075 1151 515
+userscript.html:51:5
+move--> 1526908399107 1150 506
+userscript.html:51:5
+move--> 1526908399125 1146 498
+userscript.html:51:5
+move--> 1526908399142 1145 497
+userscript.html:51:5
+move--> 1526908399158 1145 496
+userscript.html:51:5
+move--> 1526908399176 1143 496
+userscript.html:51:5
+move--> 1526908399192 1141 495
+userscript.html:51:5
+move--> 1526908399209 1140 493
+userscript.html:51:5
+move--> 1526908399225 1136 488
+userscript.html:51:5
+move--> 1526908399258 1130 484
+userscript.html:51:5
+move--> 1526908402976 1131 444
+userscript.html:51:5
+move--> 1526908402993 1133 443
+userscript.html:51:5
+move--> 1526908403008 1134 441
+userscript.html:51:5
+move--> 1526908403026 1136 440
+userscript.html:51:5
+move--> 1526908403041 1136 439
+userscript.html:51:5
+move--> 1526908403125 1136 439
+userscript.html:51:5
+move--> 1526908403141 1136 438
+userscript.html:51:5
+move--> 1526908403176 1141 438
+userscript.html:51:5
+move--> 1526908403193 1149 438
+userscript.html:51:5
+move--> 1526908403209 1159 436
+userscript.html:51:5
+move--> 1526908403226 1165 435
+userscript.html:51:5
+move--> 1526908403240 1169 434
+userscript.html:51:5
+move--> 1526908403293 1177 433
+userscript.html:51:5
+move--> 1526908403310 1178 433
+userscript.html:51:5
+move--> 1526908403325 1179 433
+userscript.html:51:5
+move--> 1526908403359 1180 433
+userscript.html:51:5
+move--> 1526908403374 1182 433
+userscript.html:51:5
+move--> 1526908403392 1184 433
+userscript.html:51:5
+move--> 1526908403408 1184 433
+userscript.html:51:5
+click-> 1526908403626 0
+userscript.html:69:5
+move--> 1526908403841 1183 429
+userscript.html:51:5
+move--> 1526908403857 1181 426
+userscript.html:51:5
+move--> 1526908403875 1175 415
+userscript.html:51:5
+move--> 1526908403892 1159 385
+userscript.html:51:5
+move--> 1526908403941 1052 255
+userscript.html:51:5
+move--> 1526908403961 1015 226
+userscript.html:51:5
+move--> 1526908403975 977 192
+userscript.html:51:5
+move--> 1526908403991 962 179
+userscript.html:51:5
+move--> 1526908404007 953 171
+userscript.html:51:5
+move--> 1526908404024 936 163
+userscript.html:51:5
+move--> 1526908404041 921 163
+userscript.html:51:5
+move--> 1526908404057 914 166
+userscript.html:51:5
+move--> 1526908404074 908 166
+userscript.html:51:5
+move--> 1526908404108 860 122
+userscript.html:51:5
+move--> 1526908404858 858 121
+userscript.html:51:5
+move--> 1526908404891 850 112
+userscript.html:51:5
+move--> 1526908404908 843 107
+userscript.html:51:5
+move--> 1526908404940 836 103
+userscript.html:51:5
+move--> 1526908404958 832 100
+userscript.html:51:5
+move--> 1526908404977 814 90
+userscript.html:51:5
+move--> 1526908404993 782 66
+userscript.html:51:5
+move--> 1526908405022 762 51
+userscript.html:51:5
+move--> 1526908405032 699 6
+userscript.html:51:5
+move--> 1526908405177 631 32
+userscript.html:51:5
+move--> 1526908405194 659 80
+userscript.html:51:5
+move--> 1526908405210 694 139
+userscript.html:51:5
+move--> 1526908405227 719 199
+userscript.html:51:5
+move--> 1526908405260 740 253
+userscript.html:51:5
+move--> 1526908405276 747 271
+userscript.html:51:5
+move--> 1526908405293 755 285
+userscript.html:51:5
+move--> 1526908405308 764 296
+userscript.html:51:5
+move--> 1526908405342 776 308
+userscript.html:51:5
+move--> 1526908405358 778 310
+userscript.html:51:5
+move--> 1526908405374 779 312
+userscript.html:51:5
+move--> 1526908405391 780 314
+userscript.html:51:5
+move--> 1526908405410 781 319
+userscript.html:51:5
+move--> 1526908405424 783 321
+userscript.html:51:5
+move--> 1526908405475 776 315
+userscript.html:51:5
+move--> 1526908405491 767 310
+userscript.html:51:5
+move--> 1526908405508 762 306
+userscript.html:51:5
+move--> 1526908405524 761 306
+userscript.html:51:5
+move--> 1526908406240 763 299
+userscript.html:51:5
+move--> 1526908406258 770 292
+userscript.html:51:5
+move--> 1526908406274 770 291
+userscript.html:51:5
+move--> 1526908406407 771 291
+userscript.html:51:5
+move--> 1526908406425 776 284
+userscript.html:51:5
+move--> 1526908406442 788 265
+userscript.html:51:5
+move--> 1526908406459 797 252
+userscript.html:51:5
+move--> 1526908406475 806 237
+userscript.html:51:5
+move--> 1526908406492 820 218
+userscript.html:51:5
+move--> 1526908406509 840 189
+userscript.html:51:5
+move--> 1526908406524 847 172
+userscript.html:51:5
+move--> 1526908406542 866 131
+userscript.html:51:5
+move--> 1526908406557 874 118
+userscript.html:51:5
+move--> 1526908406574 877 112
+userscript.html:51:5
+move--> 1526908406591 877 111
+userscript.html:51:5
+move--> 1526908406607 877 111
+userscript.html:51:5
+move--> 1526908406692 883 111
+userscript.html:51:5
+move--> 1526908406709 887 109
+userscript.html:51:5
+move--> 1526908406724 890 108
+userscript.html:51:5
+move--> 1526908406740 893 108
+userscript.html:51:5
+move--> 1526908406774 895 108
+userscript.html:51:5
+move--> 1526908406791 903 106
+userscript.html:51:5
+move--> 1526908406807 926 105
+userscript.html:51:5
+move--> 1526908406825 952 99
+userscript.html:51:5
+move--> 1526908406841 981 90
+userscript.html:51:5
+move--> 1526908406857 990 86
+userscript.html:51:5
+move--> 1526908406874 992 85
+userscript.html:51:5
+move--> 1526908406891 992 85
+userscript.html:51:5
+move--> 1526908406957 992 83
+userscript.html:51:5
+move--> 1526908406974 992 82
+userscript.html:51:5
+move--> 1526908406991 992 81
+userscript.html:51:5
+move--> 1526908407008 990 77
+userscript.html:51:5
+move--> 1526908407025 986 74
+userscript.html:51:5
+move--> 1526908407040 983 67
+userscript.html:51:5
+move--> 1526908407059 978 53
+userscript.html:51:5
+move--> 1526908407075 976 46
+userscript.html:51:5
+move--> 1526908407108 973 40
+userscript.html:51:5
+move--> 1526908407125 973 39
+userscript.html:51:5
+click-> 1526908423851 1
+userscript.html:69:5
+load-->  1526908424940 https://stackoverflow.com/users/9823187/manuel
+userscript.html:76:7
+load-->  1526908424941 https://stackoverflow.com/users/9823187/manuel
+userscript.html:76:7
+move--> 1526908428297 966 39
+userscript.html:51:5
+move--> 1526908428307 960 39
+userscript.html:51:5
+move--> 1526908428324 954 39
+userscript.html:51:5
+move--> 1526908428341 951 39
+userscript.html:51:5
+move--> 1526908428440 950 39
+userscript.html:51:5
+move--> 1526908428457 947 44
+userscript.html:51:5
+move--> 1526908428476 945 48
+userscript.html:51:5
+move--> 1526908428492 941 58
+userscript.html:51:5
+move--> 1526908428509 931 68
+userscript.html:51:5
+move--> 1526908428524 914 76
+userscript.html:51:5
+move--> 1526908428541 886 91
+userscript.html:51:5
+move--> 1526908428558 834 105
+userscript.html:51:5
+move--> 1526908428575 777 112
+userscript.html:51:5
+move--> 1526908428591 706 114
+userscript.html:51:5
+move--> 1526908428608 632 104
+userscript.html:51:5
+move--> 1526908428625 510 92
+userscript.html:51:5
+move--> 1526908428645 447 83
+userscript.html:51:5
+move--> 1526908428659 416 80
+userscript.html:51:5
+move--> 1526908428675 396 73
+userscript.html:51:5
+move--> 1526908428692 378 70
+userscript.html:51:5
+move--> 1526908428728 354 64
+userscript.html:51:5
+move--> 1526908428741 348 62
+userscript.html:51:5
+move--> 1526908428758 345 61
+userscript.html:51:5
+move--> 1526908428775 343 60
+userscript.html:51:5
+move--> 1526908428808 340 59
+userscript.html:51:5
+move--> 1526908428825 340 59
+userscript.html:51:5
+move--> 1526908428940 340 64
+userscript.html:51:5
+move--> 1526908428962 344 69
+userscript.html:51:5
+move--> 1526908428975 347 72
+userscript.html:51:5
+move--> 1526908428992 349 75
+userscript.html:51:5
+move--> 1526908429008 352 75
+userscript.html:51:5
+move--> 1526908429025 353 79
+userscript.html:51:5
+move--> 1526908429091 355 80
+userscript.html:51:5
+move--> 1526908429107 356 82
+userscript.html:51:5
+move--> 1526908429124 356 82
+userscript.html:51:5
+click-> 1526908429585 2
+userscript.html:69:5
+load-->  1526908430898 https://stackoverflow.com/users/edit/9823187
+userscript.html:76:7
+load-->  1526908430899 https://stackoverflow.com/users/edit/9823187
+userscript.html:76:7
+move--> 1526908431588 517 253
+userscript.html:51:5
+move--> 1526908431604 577 296
+userscript.html:51:5
+move--> 1526908431610 579 298
+userscript.html:51:5
+move--> 1526908431627 587 301
+userscript.html:51:5
+move--> 1526908431642 591 304
+userscript.html:51:5
+move--> 1526908431659 591 304
+userscript.html:51:5
+move--> 1526908431676 593 304
+userscript.html:51:5
+move--> 1526908431694 595 302
+userscript.html:51:5
+move--> 1526908431711 596 300
+userscript.html:51:5
+move--> 1526908431727 596 299
+userscript.html:51:5
+move--> 1526908431743 597 299
+userscript.html:51:5
+move--> 1526908431776 598 297
+userscript.html:51:5
+move--> 1526908431822 597 282
+userscript.html:51:5
+move--> 1526908431830 593 263
+userscript.html:51:5
+move--> 1526908431845 589 248
+userscript.html:51:5
+move--> 1526908431864 587 240
+userscript.html:51:5
+move--> 1526908431876 585 231
+userscript.html:51:5
+move--> 1526908437219 565 670
+userscript.html:51:5
+move--> 1526908437242 501 682
+userscript.html:51:5
+move--> 1526908437259 373 697
+userscript.html:51:5
+move--> 1526908437279 334 700
+userscript.html:51:5
+move--> 1526908437293 278 711
+userscript.html:51:5
+move--> 1526908437309 263 716
+userscript.html:51:5
+move--> 1526908437327 258 720
+userscript.html:51:5
+move--> 1526908437341 256 720
+userscript.html:51:5
+move--> 1526908437459 256 721
+userscript.html:51:5
+move--> 1526908437474 255 721
+userscript.html:51:5
+move--> 1526908437727 219 702
+userscript.html:51:5
+move--> 1526908437747 180 681
+userscript.html:51:5
+move--> 1526908437759 147 666
+userscript.html:51:5
+move--> 1526908437777 129 659
+userscript.html:51:5
+move--> 1526908437792 126 658
+userscript.html:51:5
+move--> 1526908437810 125 658
+userscript.html:51:5
+move--> 1526908437859 125 657
+userscript.html:51:5
+move--> 1526908437875 126 654
+userscript.html:51:5
+move--> 1526908437893 127 653
+userscript.html:51:5
+move--> 1526908437908 127 652
+userscript.html:51:5
+click-> 1526908438234 3
+userscript.html:69:5
+load-->  1526908439096 https://stackoverflow.com/users/delete/9823187
+userscript.html:76:7
+load-->  1526908439097 https://stackoverflow.com/users/delete/9823187
+userscript.html:76:7
+move--> 1526908439576 289 318
+userscript.html:51:5
+move--> 1526908439609 396 383
+userscript.html:51:5
+move--> 1526908439670 607 527
+userscript.html:51:5
+move--> 1526908439792 600 521
+userscript.html:51:5
+move--> 1526908439809 575 505
+userscript.html:51:5
+move--> 1526908439825 541 483
+userscript.html:51:5
+move--> 1526908439845 493 454
+userscript.html:51:5
+move--> 1526908439858 474 443
+userscript.html:51:5
+move--> 1526908439942 419 405
+userscript.html:51:5
+move--> 1526908439959 415 403
+userscript.html:51:5
+move--> 1526908439975 413 403
+userscript.html:51:5
+move--> 1526908439992 411 402
+userscript.html:51:5
+move--> 1526908440025 411 401
+userscript.html:51:5
+move--> 1526908440042 411 401
+userscript.html:51:5
+move--> 1526908440058 410 400
+userscript.html:51:5
+move--> 1526908440076 410 400
+userscript.html:51:5
+move--> 1526908440110 407 399
+userscript.html:51:5
+move--> 1526908440128 405 396
+userscript.html:51:5
+move--> 1526908440143 403 394
+userscript.html:51:5
+move--> 1526908440158 402 393
+userscript.html:51:5
+move--> 1526908440175 395 386
+userscript.html:51:5
+move--> 1526908440195 389 382
+userscript.html:51:5
+move--> 1526908440208 384 379
+userscript.html:51:5
+move--> 1526908440225 379 376
+userscript.html:51:5
+move--> 1526908440276 372 372
+userscript.html:51:5
+move--> 1526908440292 372 372
+userscript.html:51:5
+move--> 1526908440326 371 371
+userscript.html:51:5
+move--> 1526908440441 371 371
+userscript.html:51:5
+move--> 1526908440460 371 369
+userscript.html:51:5
+move--> 1526908440475 369 368
+userscript.html:51:5
+move--> 1526908440492 367 366
+userscript.html:51:5
+click-> 1526908440922 4
+userscript.html:69:5
+move--> 1526908441060 381 376
+userscript.html:51:5
+move--> 1526908441076 391 385
+userscript.html:51:5
+move--> 1526908441091 399 392
+userscript.html:51:5
+move--> 1526908441110 406 399
+userscript.html:51:5
+move--> 1526908441145 412 405
+userscript.html:51:5
+move--> 1526908441158 413 407
+userscript.html:51:5
+move--> 1526908441175 416 409
+userscript.html:51:5
+move--> 1526908441191 417 410
+userscript.html:51:5
+move--> 1526908441207 419 413
+userscript.html:51:5
+move--> 1526908441225 422 416
+userscript.html:51:5
+move--> 1526908441240 423 417
+userscript.html:51:5
+move--> 1526908441258 424 418
+userscript.html:51:5
+move--> 1526908441276 428 425
+userscript.html:51:5
+move--> 1526908441291 428 425
+userscript.html:51:5
+move--> 1526908441308 429 425
+userscript.html:51:5
+move--> 1526908441458 429 428
+userscript.html:51:5
+move--> 1526908441474 429 429
+userscript.html:51:5
+move--> 1526908441491 429 429
+userscript.html:51:5
+click-> 1526908441746 5
+userscript.html:69:5
+load-->  1526908443159 https://stackoverflow.com/users/delete/completed
+userscript.html:76:7
+load-->  1526908443160 https://stackoverflow.com/users/delete/completed
+userscript.html:76:7
+move--> 1526908445307 424 424
+userscript.html:51:5
+move--> 1526908445324 424 422
+userscript.html:51:5
+move--> 1526908445340 424 422
+userscript.html:51:5
+move--> 1526908447741 430 425
+userscript.html:51:5
+move--> 1526908447824 430 435
+userscript.html:51:5
+move--> 1526908447846 430 443
+userscript.html:51:5
+move--> 1526908447858 430 450
+userscript.html:51:5
+move--> 1526908447874 430 460
+userscript.html:51:5
+move--> 1526908447913 430 489
+userscript.html:51:5
+move--> 1526908447925 430 513
+userscript.html:51:5
+move--> 1526908447942 430 542
+userscript.html:51:5
