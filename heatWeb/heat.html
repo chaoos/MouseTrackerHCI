@@ -1,0 +1,58 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Heatmap</title>
+  <style>
+  #heatmap {
+    width: 2560px;
+    height: 1217px;
+    background-image: url("fb_start.png");
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align:center;
+    margin:auto;
+    padding:0;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="heatmap" >
+  </div>
+  <textarea rows="4" cols="50" id="jsonArea">
+  </textarea>
+  <input type="text" id="maxValue">
+  <button type="button" id="renderHeatMapButton">Render Heatmap</button>
+  <script src="heat.css"></script>
+  <script src="heatmap.min.js"></script>
+  <script>
+  var renderButton = document.querySelector('#renderHeatMapButton');
+  //document.querySelector('#heatmap').style.backgroundImage = "url('fb_start.png')"
+  //document.querySelector('#heatmap').style.backgroundSize = "2560px 1440px"
+  renderButton.onclick = function(){
+    var heatmapInstance = h337.create({
+      container: document.querySelector('#heatmap')
+    });
+    var max = document.querySelector('#maxValue').value;
+    var width = 2560;
+    var height = 1440;
+
+    var jsonString = document.querySelector('#jsonArea').value;
+    var points = JSON.parse(jsonString);
+
+    var data = {
+      max: max,
+      data: points
+    };
+    heatmapInstance.setData(data);
+  };
+
+
+
+
+  </script>
+</body>
+</html>
